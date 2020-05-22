@@ -1,0 +1,91 @@
+Esta base de datos fue recaudada por el CIFH de la UCAB en su sede de Caracas, Venezuela.
+
+La base consta de 627 respuestas de estudiantes de la Universidad, recolectadaentre el 6 de Abril del 2020 y 11 de Mayo del 2020. 
+
+Los datos vacios fueron eliminados salvo el caso 434 (ver e)
+
+1. Los nombres de las columnas fueron codificados de la siguiente manera:
+
+datastamp = Marca temporal de la respuesta
+e = Edad, en años cumplidos
+s = Sexo
+sed = ¿En cuál sede de la UCAB estudias?
+esc = ¿En cuál escuela estudias?
+sem = ¿Cuál semestre cursas actualmente?
+p1 = ¿Cuánto temor te produce el coronavirus?
+p2 = ¿Cuántas medidas de prevención has adoptado en tu vida diaria para evitar contagiarte?
+p3 = Describelas brevemente (opcional)
+p4 = 3- ¿Cómo te sientes en cuarentena?
+p5 = Cuando termine la cuarentena tu crees que...
+p6 = A continuación encontraras una lista de las actividades que las personas están haciendo en cuarentena, marca todas las que apliquen a tu caso.
+
+2. La encuesta se encuentra estructurada de la siguiente forma:
+
+2.1 Datos descriptivos = datastamp, e, s, sed, esc, sem
+
+2.2 Preguntas de la encuesta = p1, p2, p3, p4, p5, p6 
+
+3. Codificacion
+
+3.1 datastamp 
+
+yyyy-mm-dd hr:min:seg
+
+3.1 e
+En el caso 434 se presento un dato ausente y se cambio por la edad más frecuente en personas que cursan el primer semestre.
+
+3.2 s
+Hombre = 1
+Mujer = 2
+Prefiero no decirlo = 3
+
+3.3 sed
+Caracas =1
+Guayana = 2
+
+3.4 esc
+Psicologia = 1
+Ingenieria = 2
+Educacion = 3
+Derecho = 4
+Ciencias Sociales = 5
+Letras = 6
+Filosofía = 7
+Economía = 8
+Comunicación Social = 9
+Administración y Contaduría = 10
+
+3.5 p1 
+Escala de 1 a 5 donde 1 = Nada,  5= Mucho
+
+3.6 p2 
+Escala de 1 a 5 donde 1 = Ninguna,  5= Muchas
+
+3.7 p3
+Los datos vacios fueron rellenados con el string "0" (Datos vacios implican que la persona preferirio no responder)
+
+3.8 p4
+Muy mal, estoy que me subo por las paredes = 1
+Mal, necesito que esto termine pronto = 2
+Regular, pero no hay más remedio = 3
+Bien, tampoco es para tanto = 4
+De maravilla, me encanta estar aislado = 5
+
+3.9 
+Estoy adelantando mis estudios = e1
+Estoy haciendo cursos en línea = e2
+Estoy leyendo más de lo habitual (revistas y libros) = e3
+Estoy viendo más television = e4
+Estoy haciendo rutinas de ejercicios = e5
+Estoy conectado más tiempo en redes sociales = e6
+Estoy practicando meditación/yoga = e7
+Estoy escribiendo = e8
+Estoy haciendo manualidades (orfebreria, papercraft, escultura, pintura) = e9
+Estoy practicando con un instrumento musical = e10
+Estoy practicando danza = e11
+Estoy aprendiendo algo nuevo (cocina, hobby) = e12
+Estoy jugando videojuegos = e13
+Estoy pasando tiempo en familia = e14
+Estoy conectado con mis amigos en linea (jugando o conversando) e= 15
+
+Para todos los casos 1 indica presencia y 0 indica ausencia.

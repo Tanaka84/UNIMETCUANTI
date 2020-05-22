@@ -1,0 +1,695 @@
+"","datastamp","e","s","sed","esc","sem","p1","p2","p3","p4","p5","e1","e2","e3","e4","e5","e6","e7","e8","e9","e10","e11","e12","e13","e14","e15"
+"1",2020-04-06 12:51:01,19,"2","1","1",3,3,5,"No he salido de mi casa desde que comenzó la cuarentena","3","4",1,0,0,1,0,1,0,1,0,0,0,0,1,1,0
+"2",2020-04-06 12:54:33,19,"2","1","1",3,4,5,"Tapabocas, guantes, quedarme en casa totalmente","3","4",1,0,1,0,1,0,0,0,0,0,1,1,1,1,0
+"3",2020-04-06 12:54:42,19,"1","1","1",3,2,5,"El lavado de manos constante, limpieza de superficies, distanciamiento social y quién sale del hpgar y cuantas veces por semana se sale.","4","4",1,0,1,0,1,1,1,0,0,0,0,0,1,1,1
+"4",2020-04-06 12:56:35,22,"1","1","1",9,3,5,"no salir, en caso de que tenga que salir: limpiar la ropa apenas llego a la casa y lavar todo lo que haya traído de afuera, incluyendo mis manos.","3","3",0,0,0,0,1,1,0,1,0,1,0,1,1,1,1
+"5",2020-04-06 12:59:43,19,"2","1","1",3,1,5,"0","3","1",1,0,0,0,0,1,0,0,1,1,0,0,1,1,1
+"6",2020-04-06 13:03:27,19,"2","1","1",3,4,5,"0","3","3",1,0,1,1,1,1,0,1,0,0,0,1,1,1,1
+"7",2020-04-06 13:04:38,20,"1","1","1",3,3,4,"Evitar salir a toda costa, lavarme las manos constantemente durante 40 segundos, utilizar gel antibacterial repetidas veces durante el día, lavar la ropa cada 3 días.","3","2",0,0,1,1,0,1,0,0,0,0,0,0,0,0,1
+"8",2020-04-06 13:12:12,19,"2","1","1",3,1,5,"Higiene","4","4",1,1,1,0,1,0,0,1,1,1,0,1,1,1,1
+"9",2020-04-06 13:13:01,20,"2","1","1",3,3,5,"0","2","2",1,1,0,0,1,0,0,0,0,1,0,0,0,0,1
+"10",2020-04-06 13:16:14,19,"2","1","1",4,3,5,"0","2","4",1,0,1,0,0,1,0,0,1,1,0,0,1,1,1
+"11",2020-04-06 13:28:37,18,"2","1","1",3,5,5,"En mi casa no salimos  a menos que sea para comprar víveres y esto solo una vez a la semana, salen dos personas a comprar y siempre son los mismos. Utilizamos mascarilla y guantes al salir de la casa, llevando con nosotros alcohol al 70% en spray. Al volver, seguimos los pasos del protocolo de seguridad para entrar a la casa. También, entre otras cosas, limpiamos las superficies de mi casa bastante y evitamos a toda costa recibir visitas (No sé por qué la gente con gripe aún tiene ganas de visitar.)","5","1",1,1,1,0,0,1,1,1,0,0,0,0,1,1,1
+"12",2020-04-06 13:30:01,19,"2","1","1",4,5,5,"0","2","1",1,0,0,0,1,1,0,0,0,0,0,0,1,1,1
+"13",2020-04-06 13:49:15,18,"2","1","1",2,4,3,"Cuarentena voluntaria, uso de máscaras al salir, lavado de manos de 20 segundos con frecuencia","3","1",1,0,0,0,0,1,0,0,0,0,0,0,1,1,1
+"14",2020-04-06 13:54:45,20,"2","1","1",3,3,4,"Usar tapabocas y guantes, evitar lo más posible salir a menos que sea necesario y no tener mucho contacto físico con personas desconocidas o de sospecha de infección, lavado de manos frecuente y toma de bebidas calientes de forma regular.","5","2",0,0,1,1,0,1,0,0,1,0,0,1,1,1,1
+"15",2020-04-06 14:34:48,20,"1","1","1",3,5,5,"0","4","4",1,0,1,1,0,1,0,1,0,0,0,0,1,1,1
+"16",2020-04-06 14:59:24,20,"2","1","1",4,4,4,"0","3","1",0,0,0,1,1,1,0,0,0,0,0,0,1,1,1
+"17",2020-04-06 15:09:04,19,"1","1","1",3,2,4,"0","3","5",0,1,1,0,0,1,0,0,0,0,0,0,1,1,1
+"18",2020-04-06 15:13:49,20,"2","1","1",3,3,4,"Salir solo para ir a hacer compras importantes, uso de tapabocas y guantes en el exterior de la casa, rociar spray desinfectante en el integrante de la familia que llegue a la casa, lavado de manos, dejar los zapatos en la entrada donde se limpian las suelas, uso de antibacterial y alcohol. Todas las medidas son al tener contacto con el exterior, mientras permanecemos en casa todo fluye y es menos estricto","3","2",0,1,0,1,1,1,1,0,0,0,1,1,1,1,1
+"19",2020-04-06 15:42:59,21,"2","1","1",3,3,4,"0","1","4",1,0,0,1,0,1,0,0,0,0,0,1,1,1,1
+"20",2020-04-06 15:45:26,18,"2","1","1",4,3,3,"0","3","2",1,0,0,0,1,1,0,0,0,0,1,0,1,1,1
+"21",2020-04-06 15:56:09,20,"2","1","1",4,3,5,"permanecer en mi casa, lavarme las manos constantemente, utilizar guantes y tapabocas en caso de que deba salir a algún sitio publico","3","4",1,1,1,1,1,1,1,0,1,0,1,0,1,1,1
+"22",2020-04-06 15:57:06,19,"2","1","1",3,3,5,"0","4","3",0,0,1,1,1,1,0,0,0,0,0,0,1,1,1
+"23",2020-04-06 16:02:33,20,"2","1","1",4,3,3,"0","3","2",0,1,0,1,0,1,0,0,1,0,0,1,0,0,0
+"24",2020-04-06 16:19:26,19,"2","1","1",3,2,4,"Lavado constante de manos, uso de guantes y tapabocas al salir de casa, guardar distancia con las personas, bañarse tan pronto llegar de la calle, etc.","2","2",0,1,0,0,0,1,0,0,1,0,0,0,0,0,1
+"25",2020-04-06 16:21:11,18,"2","1","1",3,2,4,"lavado de manos y rostro al llegar a casa, uso de guantes y tapabocas de ser necesario salir, uso de desinfectante en objetos que puedan ser motivo de contagio","4","5",0,1,1,0,1,1,0,0,1,0,0,1,1,1,0
+"26",2020-04-06 16:31:49,19,"2","1","1",4,2,4,"Solo una persona sale en la casa","3","2",0,1,0,1,0,1,0,0,0,0,1,1,1,1,1
+"27",2020-04-06 16:48:22,17,"2","1","1",2,2,4,"0","4","4",1,0,1,1,0,1,0,1,0,0,0,1,1,1,1
+"28",2020-04-06 16:48:23,19,"2","1","8",1,3,5,"0","3","2",1,1,1,0,0,1,0,0,0,0,0,0,0,0,0
+"29",2020-04-06 16:48:26,17,"1","1","2",2,2,5,"0","3","2",1,0,0,0,1,1,1,0,0,0,0,0,1,1,1
+"30",2020-04-06 16:49:03,18,"1","1","4",2,2,3,"0","3","4",1,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+"31",2020-04-06 16:49:14,18,"1","1","10",1,2,4,"Lavarse las manos, no salir a ningún lugar, usar tapa bocas al momento de salir","4","4",0,0,1,1,0,1,0,0,0,0,0,0,1,1,1
+"32",2020-04-06 16:49:16,22,"2","1","8",2,4,5,"0","2","1",0,0,1,0,1,1,0,0,0,0,1,1,1,1,1
+"33",2020-04-06 16:49:25,18,"2","1","8",2,4,4,"0","3","2",1,0,1,1,1,1,0,0,0,0,0,1,1,1,1
+"34",2020-04-06 16:49:32,18,"2","1","10",1,3,3,"0","2","4",0,0,1,1,1,1,0,0,1,0,0,0,1,1,1
+"35",2020-04-06 16:49:37,22,"2","1","10",3,5,5,"Cumplir la cuarentena no salir de mi casa","2","3",1,0,0,1,0,1,0,0,0,0,0,0,1,1,1
+"36",2020-04-06 16:49:42,17,"2","1","1",2,2,4,"0","2","2",1,1,0,0,1,1,0,0,0,1,1,0,1,1,1
+"37",2020-04-06 16:49:43,17,"1","1","8",2,1,5,"Aislarme en casa y lavarme las manos","1","3",1,0,0,1,1,1,0,1,0,0,0,0,0,0,1
+"38",2020-04-06 16:49:52,17,"2","1","1",2,3,4,"0","4","2",0,0,0,0,0,1,1,1,0,0,0,1,0,0,0
+"39",2020-04-06 16:49:53,18,"1","1","8",2,3,5,"Tapabocas, evitar contacto y salidas, no fumar y tomar vitaminas","3","2",1,0,1,1,1,1,0,1,1,0,0,0,1,1,1
+"40",2020-04-06 16:49:57,17,"2","1","4",1,4,5,"0","4","4",1,1,0,0,0,1,1,1,1,0,0,0,1,1,1
+"41",2020-04-06 16:50:01,20,"1","1","9",2,4,4,"0","1","3",0,0,0,0,0,1,0,0,0,0,0,1,1,1,1
+"42",2020-04-06 16:50:32,18,"2","1","10",1,2,4,"0","2","4",0,0,1,0,1,1,0,0,0,0,1,0,1,1,1
+"43",2020-04-06 16:50:32,19,"1","1","9",2,3,4,"Salir de casa para lo necesario, usar tapa boca y guantes al salir, y al llegar a casa lavarme bien las manos","3","2",0,1,1,1,1,1,0,0,0,1,0,0,1,1,0
+"44",2020-04-06 16:50:34,20,"2","1","10",1,5,4,"Más higiene, menos salidas, menos contacto con demás personas. 
+","3","4",0,0,0,1,0,1,0,0,0,0,0,0,1,1,1
+"45",2020-04-06 16:50:35,18,"1","1","8",2,5,4,"He estado lavándome las manos cada vez que toco algo que voy a usar, me he bañado cada vez que mis padres salen a comprar algo, he usado toallas húmedas personales en forma de precaución, he evitado contacto directo  con mi familia y tocar mi rostro propio.","3","2",1,0,1,0,0,1,0,1,0,0,0,1,1,1,1
+"46",2020-04-06 16:50:38,18,"1","1","8",2,1,3,"0","4","1",1,0,1,0,0,1,0,0,0,0,0,0,0,0,1
+"47",2020-04-06 16:50:40,17,"1","1","10",2,4,3,"0","3","2",1,1,0,1,1,1,0,0,0,0,0,1,1,1,1
+"48",2020-04-06 16:51:10,18,"2","1","8",1,5,5,"0","3","2",0,0,1,0,1,1,1,1,0,0,0,0,1,1,0
+"49",2020-04-06 16:51:56,17,"1","1","10",1,4,5,"0","4","2",1,0,0,0,0,1,0,1,0,0,0,1,1,1,1
+"50",2020-04-06 16:52:08,21,"1","1","2",5,5,5,"Salir solo a cosas esenciales con guantes y mascarilla, no interactuar físicamente con nadie fuera de mi casa, lavarme las manos repetidas veces al día","3","1",1,1,1,0,1,1,0,0,0,0,0,0,1,1,0
+"51",2020-04-06 16:52:26,19,"2","1","9",2,3,4,"0","4","2",0,1,1,0,0,1,0,0,1,0,1,1,1,1,1
+"52",2020-04-06 16:52:34,20,"1","1","8",2,4,5,"0","3","2",0,0,0,1,0,1,0,0,0,0,0,1,1,1,1
+"53",2020-04-06 16:52:58,18,"1","1","2",2,3,4,"0","4","3",0,0,0,0,1,1,0,0,0,0,0,0,1,1,1
+"54",2020-04-06 16:53:18,18,"1","1","8",1,4,4,"No salir de casa, uso de tapabocas y gel antibacterial","5","4",1,0,1,0,0,1,0,0,0,0,0,0,0,0,1
+"55",2020-04-06 16:53:21,19,"2","1","4",3,5,5,"0","3","1",0,0,0,0,1,0,0,0,0,0,0,1,0,0,0
+"56",2020-04-06 16:53:58,18,"2","1","8",1,3,4,"No salir de la casa en lo absoluto","2","1",1,0,1,1,1,1,0,0,0,0,0,0,1,1,1
+"57",2020-04-06 16:54:03,18,"2","1","2",2,4,5,"0","3","4",1,1,0,0,1,1,0,0,0,0,0,0,1,1,1
+"58",2020-04-06 16:54:36,21,"2","1","8",2,5,5,"Tapabocas, guantes, gel antibacterial, 2 metros de distancia, solo salgo de mi casa para comprar comida, desinfecto todo.","2","2",1,1,0,1,0,1,0,1,0,0,0,0,1,1,1
+"59",2020-04-06 16:54:43,18,"2","1","10",2,3,3,"Lavarme las manos, evitar contacto con personas","2","2",1,0,0,0,1,1,0,0,0,0,0,1,0,0,1
+"60",2020-04-06 16:54:58,18,"1","1","10",1,5,5,"No salir, lavarme las manos todo el tiempo, casi un mes sin salir ni al mercado","2","3",1,0,0,1,1,1,0,0,0,0,0,1,1,1,1
+"61",2020-04-06 16:55:29,19,"1","1","5",2,4,5,"0","4","1",0,0,0,1,0,1,0,0,0,1,0,0,1,1,1
+"62",2020-04-06 16:55:40,18,"1","1","2",2,3,3,"0","4","3",1,0,0,1,0,1,0,0,1,0,0,0,1,1,1
+"63",2020-04-06 16:56:31,24,"1","1","8",8,5,5,"0","3","4",1,0,0,0,1,1,0,0,0,0,0,0,1,1,1
+"64",2020-04-06 16:56:38,21,"1","1","10",1,2,5,"limpiar mucho la casa, usar el tapa boca al salir, lavarnos las manos y no tocar nuestra cara","2","2",0,1,1,1,1,1,0,0,0,0,0,0,1,1,1
+"65",2020-04-06 16:56:47,18,"1","1","2",2,3,3,"No salir de casa y lavarse las manos","1","4",1,0,1,0,1,1,0,0,0,0,0,0,1,1,0
+"66",2020-04-06 16:56:49,18,"1","1","10",1,3,4,"0","3","4",0,0,0,1,1,1,0,0,0,0,0,1,1,1,1
+"67",2020-04-06 16:58:18,18,"1","1","9",2,1,4,"Lavarse las manos, salir con tapabocas y guantes","4","3",0,1,1,0,1,1,0,1,0,0,0,1,1,1,0
+"68",2020-04-06 16:58:30,17,"1","1","8",2,2,4,"0","2","2",1,0,1,1,1,1,0,0,0,0,0,0,1,1,1
+"69",2020-04-06 16:58:59,18,"1","1","8",1,2,4,"0","3","4",0,0,0,0,1,0,0,0,0,0,0,0,1,1,1
+"70",2020-04-06 16:58:59,19,"1","1","5",4,4,4,"0","3","3",0,0,0,0,1,1,0,0,0,0,0,1,1,1,1
+"71",2020-04-06 16:59:24,20,"2","1","1",3,3,4,"Evitar salir y acostumbrar a mis mascotas a realizar sus necesidades en cada, higienizar la casa una vez a la semana, lavarme las manos seguido, al momento de comprar ir con suéter, guantes, mascarilla, pantalón y zapatillas cerradas","4","3",1,0,1,0,0,1,0,0,0,0,1,1,0,0,1
+"72",2020-04-06 16:59:57,22,"1","1","8",1,4,5,"No salir de casa, tapabocas,guantes,antivacterial","2","1",1,1,1,1,0,1,1,0,0,0,0,0,0,0,1
+"73",2020-04-06 17:00:19,18,"1","1","10",3,3,5,"0","1","3",0,0,0,1,0,1,0,0,0,0,1,0,0,0,0
+"74",2020-04-06 17:00:53,17,"3","1","8",2,3,4,"0","2","2",0,0,1,0,0,0,1,1,0,0,0,0,0,0,0
+"75",2020-04-06 17:01:42,17,"1","1","8",1,3,3,"Lavado de manos
+Tapabocas
+Alcohol y antibacterial","2","2",0,0,1,0,1,1,0,0,0,0,0,1,1,1,1
+"76",2020-04-06 17:02:13,18,"1","1","8",1,5,3,"No salir de casa, salir lo necesario, usar tapa bocas, desecharlo al llegar a la casa, lavarme laa manos con agua y jabón","3","5",1,0,1,1,1,1,0,0,0,0,0,1,1,1,1
+"77",2020-04-06 17:03:01,23,"2","1","6",2,5,5,"0","3","4",1,0,0,0,1,0,1,1,0,0,0,1,1,1,0
+"78",2020-04-06 17:03:04,18,"2","1","4",3,5,5,"0","3","3",0,0,1,1,1,0,0,0,0,0,1,1,1,1,0
+"79",2020-04-06 17:03:18,18,"2","1","9",2,4,5,"0","4","3",0,1,0,1,0,1,0,1,0,0,1,1,1,1,0
+"80",2020-04-06 17:03:25,18,"1","1","8",2,3,4,"0","3","4",0,0,0,0,1,0,0,0,0,0,0,0,1,1,0
+"81",2020-04-06 17:03:36,18,"1","1","8",2,4,4,"0","3","2",1,1,1,0,1,1,0,0,0,0,0,1,1,1,0
+"82",2020-04-06 17:03:37,18,"2","1","4",2,3,4,"0","3","4",1,0,1,1,1,1,0,1,1,0,0,0,1,1,1
+"83",2020-04-06 17:03:46,19,"2","1","1",2,4,5,"0","3","1",0,0,1,0,0,1,0,1,1,0,0,0,0,0,1
+"84",2020-04-06 17:03:49,18,"2","2","4",3,1,5,"0","4","3",1,1,1,0,1,0,1,1,1,1,0,1,0,0,1
+"85",2020-04-06 17:04:07,19,"1","1","2",2,3,4,"0","4","1",1,0,1,0,0,1,0,1,0,0,0,1,1,1,1
+"86",2020-04-06 17:04:09,18,"3","1","7",2,2,5,"Lavado de manos seguido, desinfectar con cloro el hogar y la ropa de calle a diario, usar tapabocas, guantes y lentes cuando se sale, etc.","4","4",1,0,1,0,1,1,0,1,1,1,1,0,1,1,1
+"87",2020-04-06 17:04:12,17,"2","1","2",2,4,3,"1. Limpiar todos interruptures y picaportes de la casa, asimismo, como la casa.
+
+2. Dejar los zapatos en el patio cada vez que se salga a la calle","3","2",1,1,0,1,1,0,0,0,0,0,0,1,0,0,1
+"88",2020-04-06 17:04:13,17,"2","1","8",2,3,5,"0","3","2",1,0,1,0,1,1,1,1,0,1,0,0,0,0,0
+"89",2020-04-06 17:04:41,18,"2","1","8",2,3,4,"0","4","4",1,0,1,1,1,1,0,0,0,0,0,1,1,1,1
+"90",2020-04-06 17:04:47,19,"1","1","10",3,5,5,"Quedarme en casa, salir con la protección necesaria, únicamente para lo debido, limp","2","4",0,0,0,1,0,1,0,0,0,0,0,0,1,1,1
+"91",2020-04-06 17:04:56,18,"1","1","8",2,3,4,"alto cuidado e higiene personal y en todo el hogar, constante aseo de la ropa e inmuebles de la casa, al salir usar guantes y tapabocas, cargar siempre antibacterial, y evitar contacto con otras personas","3","4",1,1,1,1,0,1,0,0,0,0,0,1,1,1,1
+"92",2020-04-06 17:04:56,19,"1","1","4",3,5,4,"Mascarilla
+Lavado de manos ocasional 
+Desinfectante","2","2",0,0,1,1,1,1,1,1,1,1,0,1,0,0,1
+"93",2020-04-06 17:04:58,18,"2","1","10",4,3,4,"0","3","2",0,1,0,1,0,0,0,0,0,0,0,1,1,1,0
+"94",2020-04-06 17:04:59,20,"1","1","8",2,3,5,"0","3","4",1,0,0,1,0,1,0,0,0,0,0,0,1,1,1
+"95",2020-04-06 17:05:02,18,"2","1","10",2,3,3,"Lavado de manos, estar en casa, uso de tapabocas","3","3",0,0,0,1,0,1,0,0,0,0,0,1,1,1,1
+"96",2020-04-06 17:05:20,17,"2","1","8",1,5,4,"0","3","2",1,0,0,0,0,1,0,0,1,0,0,0,1,1,1
+"97",2020-04-06 17:05:58,17,"1","1","1",2,4,5,"0","3","3",0,0,0,1,1,1,0,0,1,0,0,0,1,1,1
+"98",2020-04-06 17:06:06,17,"1","1","2",2,2,5,"0","3","2",1,0,0,0,1,1,0,0,0,0,0,0,1,1,1
+"99",2020-04-06 17:06:17,19,"1","1","8",2,2,4,"0","3","4",0,1,0,1,1,1,0,0,1,1,0,1,1,1,1
+"100",2020-04-06 17:06:17,23,"2","1","1",3,3,2,"Tapabocas al salir","2","3",1,0,0,1,1,1,0,0,0,0,0,0,0,0,1
+"101",2020-04-06 17:06:21,17,"2","1","9",2,4,5,"0","3","3",0,0,1,1,1,1,0,1,0,0,0,1,1,1,1
+"102",2020-04-06 17:06:25,18,"2","1","8",2,3,5,"0","3","2",1,0,0,0,1,1,0,0,0,0,0,1,1,1,1
+"103",2020-04-06 17:07:00,18,"1","1","2",2,4,5,"Evitar salir y lavarse las manos","3","4",1,0,0,0,1,1,0,0,0,0,0,0,0,0,1
+"104",2020-04-06 17:07:02,19,"2","1","8",2,5,5,"Lavarme las manos, llevar gel antibalterial si es necesario salir, salir solo si es necesario, al entrar a casa si vengo de afuera me rocian con desinfectante en aerosol.","4","2",0,1,0,1,0,1,1,0,0,0,0,0,1,1,0
+"105",2020-04-06 17:07:19,18,"1","1","8",1,5,5,"0","2","2",0,0,1,1,1,0,0,0,0,1,0,1,0,0,1
+"106",2020-04-06 17:07:29,18,"2","1","1",1,3,3,"0","3","2",0,0,0,0,0,1,0,0,0,0,0,0,0,0,1
+"107",2020-04-06 17:07:37,18,"1","1","8",1,3,3,"0","3","4",0,0,0,0,1,1,0,0,0,0,1,1,1,1,1
+"108",2020-04-06 17:07:37,23,"1","1","10",2,4,4,"0","4","4",0,1,1,0,0,1,0,0,0,1,0,1,1,1,1
+"109",2020-04-06 17:08:20,18,"2","1","4",2,3,5,"Tenemos casi 4 semanas sin salir de casa, solo sale un miembro de mi familia a hacer las compras una vez a la semana y al regresar tiene un protocolo para limpiarse, la ropa que uso se queda afuera al Sol.","3","2",1,0,0,1,0,1,0,0,1,0,0,0,0,0,1
+"110",2020-04-06 17:08:45,19,"1","1","9",2,2,4,"0","4","2",0,0,0,0,0,0,0,1,1,1,1,1,1,1,0
+"111",2020-04-06 17:08:56,18,"2","1","8",2,3,5,"Mantener la casa limpia (usar cloro), mantenerme en casa, lavarme las manos, tener un antibacterial cerca, y usar tapabocas y guantes si requiero salir.","4","3",1,0,0,1,1,1,0,1,1,1,0,1,1,1,1
+"112",2020-04-06 17:09:14,18,"1","1","8",2,2,5,"0","3","2",1,1,0,0,1,0,0,0,0,0,0,0,1,1,1
+"113",2020-04-06 17:09:18,17,"1","1","10",1,2,4,"0","3","1",0,0,0,0,1,1,0,0,0,0,0,0,0,0,1
+"114",2020-04-06 17:09:21,17,"2","1","1",2,5,5,"0","4","3",1,0,1,0,1,1,0,0,0,0,0,1,1,1,0
+"115",2020-04-06 17:09:28,18,"1","1","2",2,4,5,"Evitar salir y lavarse las manos","3","4",1,0,0,0,1,1,0,0,0,0,0,0,0,0,1
+"116",2020-04-06 17:09:39,19,"2","1","1",2,5,3,"Quedarme en casa","3","4",0,0,1,1,1,1,1,0,0,0,0,1,1,1,1
+"117",2020-04-06 17:09:45,18,"2","1","4",3,4,4,"0","3","4",0,0,1,0,1,1,0,0,0,0,0,1,1,1,0
+"118",2020-04-06 17:09:54,22,"1","1","4",2,3,3,"0","3","2",0,0,1,1,0,1,0,1,0,0,0,0,1,1,1
+"119",2020-04-06 17:09:56,19,"1","1","5",2,3,5,"Totalmente aislado y sin salir","3","2",0,1,0,1,0,1,0,0,0,0,0,0,1,1,1
+"120",2020-04-06 17:10:13,18,"2","1","1",2,4,3,"Lavarme las manos y la cara muy seguido, no salgo de mi casa, para nada.","4","2",1,0,1,1,0,0,0,0,0,0,0,1,0,0,0
+"121",2020-04-06 17:10:16,17,"1","1","10",1,3,4,"0","2","2",0,0,0,1,1,1,0,0,0,0,0,1,1,1,0
+"122",2020-04-06 17:10:45,18,"2","1","1",2,3,5,"Nos mantenemos en casa, y lavamos nuestras manos con mucha frecuencia","5","2",0,0,0,1,1,1,0,0,0,0,0,0,1,1,1
+"123",2020-04-06 17:11:17,18,"1","1","4",1,3,3,"0","3","2",1,0,1,1,1,1,0,0,0,0,0,0,1,1,1
+"124",2020-04-06 17:11:48,18,"1","1","10",2,2,3,"0","3","2",0,0,1,0,1,1,0,1,0,0,0,1,1,1,1
+"125",2020-04-06 17:11:55,18,"1","1","8",2,1,3,"Cuarentena, medidas relativamente avanzadas de higiene.","2","3",0,0,0,1,1,1,0,0,0,0,0,0,1,1,1
+"126",2020-04-06 17:11:59,18,"1","1","10",2,4,3,"Limpiarme las manos cada vez que toco algo desconocido y salir con tapabocas.","3","2",0,0,1,0,1,1,0,1,0,0,0,0,1,1,0
+"127",2020-04-06 17:12:04,19,"1","1","8",2,3,5,"Encerrado en casa","3","2",0,1,1,0,1,1,1,0,0,1,0,0,0,0,0
+"128",2020-04-06 17:12:29,18,"1","1","8",2,2,4,"0","2","2",1,0,1,1,1,1,0,0,0,0,0,0,0,0,0
+"129",2020-04-06 17:12:32,17,"1","1","10",2,4,3,"Lavarme las manos , tapabocas al salir","1","5",0,0,0,0,1,1,0,0,0,0,0,0,1,1,1
+"130",2020-04-06 17:13:01,18,"2","1","5",2,4,5,"Uso de tapabocas, cuarentena, no entrar con los zapatos a la casa, bañarse después de llegar de buscar provisiones, poner la ropa que se usó en la calle a lavar o al sol (si todavía no está para lavar), lavado de manos frecuente.","3","2",1,1,0,1,0,1,0,0,0,0,0,0,1,1,1
+"131",2020-04-06 17:13:11,21,"2","1","1",3,3,4,"0","3","4",1,0,1,0,0,0,0,1,1,0,0,1,1,1,1
+"132",2020-04-06 17:13:27,18,"1","1","2",2,3,4,"0","4","3",0,0,1,1,0,0,0,1,0,0,0,0,1,1,1
+"133",2020-04-06 17:13:52,18,"1","1","8",2,4,5,"Todas las recomendadas por la OMS","3","4",0,0,0,0,1,1,0,0,0,0,0,1,1,1,1
+"134",2020-04-06 17:14:50,17,"2","1","9",2,3,4,"0","1","4",0,0,0,0,1,1,0,0,0,0,0,1,0,0,0
+"135",2020-04-06 17:14:58,19,"1","1","10",5,5,5,"0","2","5",0,0,1,0,1,1,0,0,0,0,0,0,1,1,1
+"136",2020-04-06 17:15:14,19,"1","1","8",2,2,5,"0","3","2",1,1,0,1,1,0,0,0,0,0,0,1,1,1,1
+"137",2020-04-06 17:15:45,18,"1","1","2",2,4,5,"Lavarse las manos, mantener una buena higiene, buena alimentación, ejercicios en casa y quedarme en mi casa","3","3",1,1,1,1,1,1,0,0,0,0,0,1,1,1,1
+"138",2020-04-06 17:15:56,17,"1","1","9",2,4,4,"No salir de mi casa por ningún motivo (ni siquiera al pasillo)","3","2",0,0,1,1,1,1,0,0,0,0,0,0,1,1,1
+"139",2020-04-06 17:16:07,18,"2","1","1",2,4,4,"Lavarse las manos cada vez sea necesario
+Lavar ropa constante
+Meterme a bañar al llegar de comprar alimentos 
+Lavar los alimentos con vinagre al llegar a casa 
+Desinfectar con alcohol las patas de mi perra
+Tomar vitamina C e infusiones calientes
+","2","2",1,0,1,1,0,1,0,0,0,0,0,0,0,0,1
+"140",2020-04-06 17:16:09,23,"2","1","10",7,5,5,"Lavado de manos y rostro, alcohol al 70 con wipes, cloro y ropa fuera de casa en caso de salir","4","2",0,0,1,0,1,0,0,0,0,0,0,1,1,1,0
+"141",2020-04-06 17:16:16,22,"2","1","10",7,5,5,"Lavar mis manos, usar tapabocas y guantes, no salir de casa al menos que sea estrictamente necesario, usar antibacterial y alcohol para desinfectar las cosas compradas, etc.","3","4",1,0,0,0,1,1,0,0,1,0,0,1,1,1,1
+"142",2020-04-06 17:16:19,18,"2","1","3",2,3,5,"No he salido de mi casa","3","4",1,1,0,0,0,1,0,0,1,0,1,1,1,1,0
+"143",2020-04-06 17:16:41,39,"1","1","3",3,5,5,"Lavado de manos, prevención al salir del hogar, adoptar la cuarentena, uso de tapa bocas,estar informado constantemente","3","2",1,1,0,1,1,1,0,0,0,0,0,0,1,1,0
+"144",2020-04-06 17:16:51,18,"2","1","9",2,4,5,"0","3","4",1,0,1,1,1,1,0,0,1,0,0,1,1,1,1
+"145",2020-04-06 17:16:57,22,"2","1","10",6,4,5,"0","3","2",0,0,0,0,0,1,0,0,0,0,0,0,1,1,1
+"146",2020-04-06 17:16:59,19,"2","1","9",2,3,5,"Lavarme las manos constantemente, cada vez que salgo me pongo guantes y mascarilla, salgo lo menos posible y sólo para cosas esenciales","4","2",0,1,1,0,0,1,1,1,0,0,0,1,1,1,1
+"147",2020-04-06 17:17:02,20,"2","1","10",4,4,4,"0","3","2",0,0,0,1,1,1,0,0,0,0,1,1,1,1,1
+"148",2020-04-06 17:17:10,18,"2","1","9",2,3,3,"0","3","4",1,0,0,1,1,1,0,0,0,0,1,0,1,1,0
+"149",2020-04-06 17:17:10,17,"2","1","1",2,4,5,"No salir de la casa, tomar vitamina C, de llegar a salir usar tapabocas","2","4",0,0,1,1,0,1,1,1,0,0,1,0,1,1,1
+"150",2020-04-06 17:17:19,18,"1","1","8",2,4,5,"0","3","2",1,0,1,0,1,1,0,0,0,1,0,1,1,1,1
+"151",2020-04-06 17:18:00,18,"2","1","10",2,4,5,"0","3","3",1,0,1,1,0,1,0,0,1,0,0,1,1,1,1
+"152",2020-04-06 17:18:15,17,"2","1","8",2,5,5,"Cuarentena","3","4",0,0,1,1,1,1,0,0,0,0,0,1,1,1,1
+"153",2020-04-06 17:18:18,20,"1","1","10",4,2,3,"0","3","2",1,0,1,1,1,0,0,0,0,0,0,0,0,0,1
+"154",2020-04-06 17:18:28,18,"2","1","2",2,3,4,"0","4","2",0,0,0,1,1,1,0,0,0,0,0,0,1,1,0
+"155",2020-04-06 17:18:31,23,"1","1","10",4,2,4,"Tapa bocas, lavarse las manos, no tener tanto contacto con la gente y usar guantes","3","2",1,0,1,1,1,1,0,0,0,0,0,1,0,0,0
+"156",2020-04-06 17:18:34,18,"1","1","2",2,4,4,"Confinamiento, uso de mascarillas, lavado de manos","3","4",0,0,1,0,1,0,0,0,0,0,0,0,1,1,0
+"157",2020-04-06 17:18:55,18,"1","1","8",2,4,4,"Lavarnos las manos constantemente, desinfectar la casa todos los días, salir lo menos posible","4","2",0,1,0,0,0,1,0,0,0,0,1,0,1,1,1
+"158",2020-04-06 17:19:20,24,"1","1","3",7,3,5,"0","3","4",0,0,0,0,0,1,0,1,0,0,0,0,1,1,1
+"159",2020-04-06 17:19:20,21,"2","1","10",6,4,5,"Guantes, tapaboca, lavado de mano frecuente, aislamiento, antibacterial, vitamina c","3","4",1,1,1,1,1,1,0,0,1,0,0,1,1,1,1
+"160",2020-04-06 17:19:25,24,"2","1","10",5,5,5,"0","3","2",0,1,0,0,1,1,0,0,0,0,0,1,1,1,1
+"161",2020-04-06 17:19:28,18,"1","1","10",2,3,5,"Utilizar tapabocas y guantes al momento de salir de mi casa a hacer mercado y llegando quitarme la ropa a lavar, lavarme las manos y el cuerpo","4","2",1,0,0,0,0,0,0,0,0,0,0,0,1,1,1
+"162",2020-04-06 17:19:28,18,"1","1","8",2,4,5,"No salir de casa , no visitar familiares mayores","2","2",1,1,0,1,1,1,0,0,0,0,0,1,1,1,1
+"163",2020-04-06 17:19:42,23,"2","1","9",6,4,4,"Lavarme las manos constantemente, limpiar todas las compras con alcohol o jabón, utilizar tapa boca y guantes al salir a comprar artículos necesarios, tener unos zapatos específicos para salir y lavar la ropa inmediatamente al llegar a la casa.","2","2",0,0,1,1,1,1,0,0,0,0,1,0,1,1,1
+"164",2020-04-06 17:19:46,22,"2","1","10",5,5,5,"0","3","2",0,0,1,0,1,1,0,0,0,0,0,1,1,1,0
+"165",2020-04-06 17:19:47,21,"2","1","9",6,5,4,"0","1","5",1,0,1,1,1,1,0,1,0,0,1,1,1,1,1
+"166",2020-04-06 17:19:52,19,"2","1","9",6,1,4,"No salir de mi casa a menos que sea necesario y lavarme las manos al volver. Usar mascarillas. Desinfectar las superficies. Instar a mi familia a hacer lo mismo.","3","4",0,0,1,0,0,0,1,1,0,0,0,0,1,1,1
+"167",2020-04-06 17:20:10,18,"2","1","1",1,5,4,"0","1","2",0,0,0,1,1,1,0,0,0,0,0,1,0,0,1
+"168",2020-04-06 17:20:21,18,"2","1","8",2,3,5,"Tapabocas 
+Uso de guantes 
+Gel Antibacterial","2","3",1,0,0,1,1,1,0,0,0,1,0,1,1,1,1
+"169",2020-04-06 17:20:54,18,"2","1","8",1,3,4,"No he salido de mi casa en las últimas tres semanas","3","4",1,0,1,1,0,1,1,0,0,0,0,1,1,1,0
+"170",2020-04-06 17:21:07,20,"1","1","8",2,3,4,"0","3","2",0,1,0,0,1,1,0,0,0,1,0,0,0,0,1
+"171",2020-04-06 17:21:14,17,"2","1","1",2,2,2,"Usar mascarilla y lavarse las manos al llegar a casa","3","2",0,0,0,1,0,1,0,0,0,0,0,1,0,0,0
+"172",2020-04-06 17:21:17,18,"2","1","1",2,2,4,"Trato de no salir de mi casa, ni mis papás, utilizo anti bacterial, me lavo frecuentemente las manos y no recibo visitas.","4","2",1,0,1,1,1,1,0,0,0,0,0,0,1,1,1
+"173",2020-04-06 17:21:22,23,"2","1","10",6,5,5,"0","3","2",1,1,0,1,0,1,0,0,0,0,0,0,0,0,1
+"174",2020-04-06 17:23:12,20,"2","1","10",6,3,5,"0","2","2",1,1,0,1,0,1,0,0,0,0,0,1,1,1,1
+"175",2020-04-06 17:23:21,20,"2","1","10",6,5,5,"Muchísima higiene tanto personal como en la casa","4","2",1,1,1,1,1,1,1,0,1,0,0,1,1,1,1
+"176",2020-04-06 17:23:29,18,"1","1","2",2,4,4,"0","3","3",1,0,1,0,1,1,0,0,0,0,0,0,1,1,1
+"177",2020-04-06 17:23:48,18,"1","1","8",2,3,4,"0","3","2",1,0,1,0,0,1,0,0,0,0,0,1,1,1,1
+"178",2020-04-06 17:23:53,20,"2","1","9",6,3,5,"He cumplido la cuarentena siguiendo las medidas que recomienda la OMS, y cuando he tenido que salir a comprar alimentos lo he hecho con guantes, tapabocas, ropa manga larga... de regreso a la casa he botado el tapaboca y los guantes y he metido de una vez a lavar la ropa usada, tomando seguidamente una ducha.","3","4",0,0,1,1,1,1,1,1,0,0,0,1,1,1,1
+"179",2020-04-06 17:23:56,18,"2","1","9",2,3,4,"0","2","2",0,0,0,1,0,1,0,0,0,0,0,0,1,1,1
+"180",2020-04-06 17:24:03,22,"2","1","3",8,4,5,"0","2","4",0,1,1,1,1,1,1,0,1,0,1,1,1,1,1
+"181",2020-04-06 17:24:22,17,"1","1","10",2,2,5,"0","1","4",0,0,1,1,0,1,0,0,0,0,0,1,0,0,0
+"182",2020-04-06 17:24:24,21,"2","1","10",5,5,5,"Tapaboca, desinfectar absolutamente todo, antibacterial, uso de guantes y cuarentena","2","1",0,1,0,0,1,1,1,0,1,0,0,1,1,1,1
+"183",2020-04-06 17:25:06,18,"1","1","8",2,4,4,"Mascarillas, Guantes, Aceo constante, Uso de alcohol para desinfectar, cuarentena","2","2",1,1,1,0,1,1,0,0,0,0,0,1,0,0,1
+"184",2020-04-06 17:25:18,20,"1","1","2",3,1,4,"0","3","4",1,0,1,1,1,1,0,1,0,0,0,0,1,1,1
+"185",2020-04-06 17:25:22,19,"1","1","10",4,4,4,"0","3","4",0,1,0,1,1,1,0,0,0,0,0,1,1,1,0
+"186",2020-04-06 17:25:50,19,"2","1","3",2,5,5,"0","2","4",1,0,1,0,0,1,0,0,0,0,0,1,1,1,1
+"187",2020-04-06 17:26:17,17,"2","1","1",2,3,4,"Quedarse en casa 
+Alcohol para desinfectar
+Lavarse las manos","3","4",1,0,0,1,1,1,0,1,0,0,0,0,1,1,1
+"188",2020-04-06 17:27:19,21,"1","1","10",6,4,4,"0","3","3",0,1,1,1,1,1,0,0,0,0,0,0,0,0,0
+"189",2020-04-06 17:27:22,22,"2","1","10",7,4,5,"Limpieza, desinfección y aislamiento","3","2",1,1,1,0,1,1,1,0,1,1,0,1,1,1,1
+"190",2020-04-06 17:27:28,20,"2","1","4",3,5,5,"Cumplir con la cuarentena,lavar manos constante","1","2",0,0,1,1,0,0,0,0,0,0,0,1,1,1,0
+"191",2020-04-06 17:27:45,22,"2","1","3",7,4,5,"No salir de casa, usar tapa bocas en la calle si llego a salir hacer mercado o al médico, lavar constantemente mis manos, estar al menos a un metro de distancia de las personas, no tocar mi cara con las manos, etc...","3","3",1,1,0,1,0,1,0,0,0,0,0,1,1,1,0
+"192",2020-04-06 17:27:46,19,"2","1","8",1,1,5,"Uso de guantes, tapabocas, gorro quirúrgico, lavado de manos frecuentemente, uso de gel antibacterial, evito el contacto de manos con ojos, nariz y boca, cumplo la cuarentena, y solo salgo de ser estrictamente necesario.","4","2",1,1,1,1,1,1,0,0,0,0,1,1,1,1,1
+"193",2020-04-06 17:27:50,54,"2","1","3",8,5,5,"0","3","4",1,0,1,0,0,0,0,0,1,0,0,0,0,0,0
+"194",2020-04-06 17:27:59,19,"2","1","9",4,4,5,"No salgo de mi casa y limpiamos cada semana toda la casa, si alguien sale cuando entra con compras las desinfectamos y limpiamos todo de nuevo","2","2",0,1,1,1,0,1,1,0,0,0,1,0,0,0,1
+"195",2020-04-06 17:28:13,20,"2","1","10",6,5,3,"Estar en casa, usar tapabocas, lavar manos","2","4",1,1,1,0,1,1,0,0,0,0,0,1,1,1,1
+"196",2020-04-06 17:28:30,21,"2","1","3",8,4,5,"No he salido durante la cuarentena.","3","5",1,1,0,1,1,1,0,0,0,0,1,1,1,1,0
+"197",2020-04-06 17:28:31,24,"2","1","10",4,5,5,"0","3","2",0,1,0,1,0,1,0,0,1,0,0,0,1,1,1
+"198",2020-04-06 17:29:05,22,"2","1","4",2,3,4,"0","3","2",1,1,1,1,0,0,0,0,0,0,0,0,1,1,1
+"199",2020-04-06 17:29:32,18,"2","1","6",2,1,5,"Constante lavado de manos con agua y jabón, posteriormente usando alcohol, uso de tapabocas y guantes para los familiares que deben salir a trabajar, consumos de alimentos con muchas vitaminas, evitar cosas a temperatura fría","4","1",1,1,1,0,1,0,1,1,0,0,0,1,1,1,1
+"200",2020-04-06 17:29:42,21,"2","1","3",7,5,5,"Lavarse las manos cada 15 min mínimo
+No estar en la calle por mucho tiempo, solo salir para cosas necesarias","2","1",1,0,1,0,1,0,0,0,0,0,1,0,0,0,0
+"201",2020-04-06 17:29:45,17,"2","1","9",2,4,4,"0","3","4",0,0,1,1,1,1,0,0,0,0,0,1,1,1,1
+"202",2020-04-06 17:29:47,18,"2","1","8",2,4,4,"0","2","2",1,0,0,1,0,1,0,0,0,0,0,1,1,1,1
+"203",2020-04-06 17:30:36,21,"1","1","10",6,2,5,"Lavado frecuente de manos, tapabocas, distanciamiento social, buena alimentación e higiene","2","4",1,0,0,1,0,0,0,0,0,0,0,1,1,1,1
+"204",2020-04-06 17:32:02,18,"1","1","2",1,3,3,"Lavarme más seguido las manos, limpiar mis objetos personales con alcohol, no tocarme la cara...","2","2",0,0,0,0,1,1,0,0,0,0,0,0,1,1,1
+"205",2020-04-06 17:32:16,21,"2","1","1",4,4,5,"0","1","2",0,0,1,1,1,1,0,0,0,0,0,1,1,1,1
+"206",2020-04-06 17:33:10,18,"1","1","10",1,2,4,"Lavarse las manos, no salir a ningún lugar, usar tapa bocas al momento de salir","4","4",0,0,1,1,0,1,0,0,0,0,0,0,1,1,1
+"207",2020-04-06 17:33:32,18,"1","1","8",1,5,4,"He acatado la cuarentena, me lavo las manos constantemente, uso de mascarilla, uso de guantes y poco contacto con personas","2","2",0,1,1,0,0,1,0,0,0,0,0,0,1,1,1
+"208",2020-04-06 17:33:51,18,"1","1","8",2,3,3,"0","3","4",1,1,1,0,1,0,0,1,0,1,0,1,1,1,1
+"209",2020-04-06 17:34:19,20,"1","1","2",4,3,4,"0","3","2",0,1,0,0,1,0,0,0,0,0,0,1,1,1,1
+"210",2020-04-06 17:34:21,27,"2","1","3",8,5,5,"0","2","1",0,0,0,0,0,0,0,0,0,0,0,0,1,1,0
+"211",2020-04-06 17:34:35,22,"2","1","8",2,2,5,"Quitarme la ropa al llegar a casa y lavarme las manos. Salir con un envase de alcohol para usarlo mientras estoy fuera de casa. No invitar amigos.","3","4",1,0,0,0,1,0,0,1,1,1,0,0,0,0,0
+"212",2020-04-06 17:34:53,21,"1","1","10",6,3,5,"Higiene, no salir de casa si no es necesario","3","2",1,0,0,0,1,1,1,0,0,0,0,1,1,1,0
+"213",2020-04-06 17:35:33,17,"1","1","8",1,2,4,"El lavado frecuente de las manos y la cuarentena","3","4",0,1,0,0,1,1,0,0,0,0,0,0,1,1,1
+"214",2020-04-06 17:35:56,23,"2","1","3",7,4,4,"Usar tapa bocas, si salimos a la calle al llegar a casa definfectamos las cosas compradas, se limpian las suelas de los zapatos con cloro, la ropa se quita al entrar y directo a ducharnos para no llevar nada a los cuartos.","3","4",0,1,0,0,0,1,0,0,0,0,0,0,1,1,0
+"215",2020-04-06 17:36:01,18,"2","1","9",2,3,4,"No salimos.
+Tenemos antibacterial y alcohol en cada rincón de la casa. 
+Todos tenemos tapa bocas y guantes.
+","3","4",1,1,1,0,1,1,0,1,1,0,1,1,1,1,1
+"216",2020-04-06 17:36:07,22,"1","1","2",7,4,5,"Lavarme las manos, no salir, si salgo uso guantes y tapabocas","4","4",0,1,1,0,0,1,0,0,0,0,0,1,1,1,1
+"217",2020-04-06 17:36:19,18,"2","1","1",2,4,4,"0","3","3",0,0,1,1,1,1,0,0,1,0,0,1,1,1,1
+"218",2020-04-06 17:37:53,18,"2","1","8",2,3,4,"0","2","2",1,0,1,1,0,1,0,0,1,0,0,0,1,1,1
+"219",2020-04-06 17:37:54,19,"2","1","4",3,4,5,"Permanecer en casa; bañarme dos veces al día; desinfectar todas las compras oñy productos que trae mi mamá a la casa con alcohol; tomar vitamina C; evitar el contacto físico con otros.","2","2",0,0,1,0,1,1,1,1,0,0,0,1,1,1,1
+"220",2020-04-06 17:39:30,21,"2","1","1",4,5,4,"0","1","2",0,1,1,1,0,1,0,0,1,0,0,0,1,1,1
+"221",2020-04-06 17:39:37,17,"1","1","2",2,2,5,"Ser lo más higiénico posible, utilizar el tapabocas en caso de salir por algo necesario, lavarse las manos y usar antibacterial","2","5",1,0,0,0,1,0,0,0,0,0,0,0,1,1,1
+"222",2020-04-06 17:39:47,19,"2","1","10",6,4,5,"0","3","2",1,0,0,1,1,1,1,0,0,0,0,1,1,1,1
+"223",2020-04-06 17:40:01,19,"1","1","1",3,3,4,"0","3","2",0,0,1,0,1,0,0,0,0,0,0,1,1,1,0
+"224",2020-04-06 17:40:08,24,"1","1","10",6,3,4,"0","3","4",1,1,1,1,1,1,0,0,0,0,0,1,1,1,1
+"225",2020-04-06 17:40:41,34,"2","1","3",8,2,4,"0","3","5",0,1,0,0,1,1,0,0,0,0,0,0,1,1,0
+"226",2020-04-06 17:41:30,20,"2","1","9",5,3,3,"Solo adopte el tapabocas, alcohol y guantes. De resto, soy muy higiénica y me lavo las manos constantemente","3","4",0,1,1,1,0,1,0,0,0,0,0,1,0,0,1
+"227",2020-04-06 17:42:59,20,"1","1","9",6,5,5,"No salgo de casa, mi círculo familiar realiza todo lo referente a compras de víveres y medicinas. Si tengo que desplazarme por el edificio lo hago con mascarilla.","3","2",0,0,0,0,0,1,0,0,0,0,0,0,1,1,1
+"228",2020-04-06 17:43:10,24,"2","1","10",7,5,5,"Lavo las manos constantemente con jabón. Si salgo es con tapa boca, guantes, al llegar a casa me quitó los zapatos en la entrada, me meto a bañar de una vez y saco la ropa a fuera o en la cesta de ropa sucia.","2","4",0,0,1,1,0,1,0,0,1,0,0,1,1,1,1
+"229",2020-04-06 17:43:11,19,"1","1","9",2,2,5,"0","4","3",0,1,1,1,1,1,0,0,0,0,0,0,1,1,1
+"230",2020-04-06 17:43:19,18,"1","1","8",2,2,5,"0","4","1",1,1,1,0,1,1,0,1,1,0,1,1,1,1,1
+"231",2020-04-06 17:43:48,26,"2","1","9",3,2,5,"0","4","5",0,1,1,0,1,0,0,0,0,0,0,0,0,0,0
+"232",2020-04-06 17:44:13,18,"1","1","10",2,4,5,"0","3","4",1,0,0,0,1,1,0,0,0,0,0,1,1,1,1
+"233",2020-04-06 17:44:45,18,"1","1","8",2,2,5,"0","4","1",1,1,1,0,1,1,0,1,1,0,0,1,1,1,1
+"234",2020-04-06 17:46:59,19,"1","1","8",2,1,4,"0","5","1",1,0,1,0,0,0,0,0,1,0,0,1,1,1,0
+"235",2020-04-06 17:48:33,17,"2","1","1",2,4,4,"0","3","2",1,1,1,0,1,1,0,1,1,0,0,0,1,1,1
+"236",2020-04-06 17:49:07,19,"1","1","3",1,4,5,"0","5","1",1,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+"237",2020-04-06 17:49:46,18,"2","1","4",1,3,5,"Quitarse los zapatos antes de entrar a la casa,desinfección de manos al llegar a la casa y previamente al salir a la calle ponerse mascarilla y guantes","3","2",0,0,0,0,0,1,0,0,0,0,1,1,1,1,1
+"238",2020-04-06 17:49:52,18,"1","1","2",1,2,3,"0","4","1",0,0,0,1,0,1,0,0,0,0,0,0,1,1,1
+"239",2020-04-06 17:54:12,18,"1","1","2",2,2,4,"0","4","4",1,0,1,1,1,0,0,0,0,0,0,0,1,1,0
+"240",2020-04-06 17:57:44,19,"2","1","10",6,3,4,"No salir","4","2",0,0,0,0,1,1,0,0,0,0,0,1,0,0,1
+"241",2020-04-06 17:57:54,18,"1","1","8",1,1,5,"No he salido desde hace 21 días","4","3",1,0,0,1,0,1,0,0,0,1,0,0,0,0,1
+"242",2020-04-06 18:02:57,18,"1","1","10",2,3,5,"Limpiar los objetos más utilizados periódicamente, limpiar los pomos de las puertas regularmente, si se sale del hogar utilizar la mascarilla y guantes, lavarse las manos con agua un jabón además de anti bacterial","3","2",0,1,0,1,1,0,0,0,0,0,0,0,1,1,1
+"243",2020-04-06 18:04:58,20,"2","1","10",2,4,5,"Lavarse las manos con frecuencia , salir solo si es necesario","4","4",0,0,1,1,1,1,0,0,1,0,0,1,1,1,0
+"244",2020-04-06 18:09:40,18,"1","1","4",3,5,4,"Lavarse las manos constantemente
+Evitar salir y cuando salgo uso las protecciones correspondiente","3","5",1,0,1,0,1,1,1,0,0,0,0,0,1,1,0
+"245",2020-04-06 18:10:14,18,"1","1","10",2,3,4,"0","3","4",0,0,0,0,0,1,0,0,0,0,0,0,0,0,1
+"246",2020-04-06 18:12:05,24,"1","1","9",6,3,3,"Uso de mascarilla, lavado de manos, casi no salgo de casa.","3","3",0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+"247",2020-04-06 18:12:38,18,"2","1","9",2,3,4,"1. lavarme las manos constantemente
+2. no tocarme la cara
+3. quedarme en casa","1","4",0,1,0,1,1,1,0,0,1,0,1,0,0,0,1
+"248",2020-04-06 18:12:54,18,"2","1","8",2,2,4,"Resguardo, higiene y protección.","4","3",1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"249",2020-04-06 18:18:53,19,"2","1","9",2,4,3,"0","4","2",0,1,0,0,1,1,1,0,1,0,0,1,1,1,1
+"250",2020-04-06 18:20:26,18,"2","1","10",2,4,4,"0","2","4",0,1,0,1,1,1,0,0,0,0,1,1,1,1,0
+"251",2020-04-06 18:22:52,18,"1","1","8",2,4,5,"0","2","2",1,0,0,1,1,1,0,0,0,0,0,0,1,1,1
+"252",2020-04-06 18:26:22,24,"2","1","3",8,3,4,"0","1","3",0,0,0,1,1,1,0,0,0,0,0,0,0,0,0
+"253",2020-04-06 18:26:38,18,"2","1","9",2,5,5,"0","3","3",0,1,1,0,1,1,1,1,0,1,0,1,1,1,1
+"254",2020-04-06 18:27:00,20,"2","1","9",3,3,5,"Uso de guantes, tapabocas entre otros","5","3",1,1,0,0,1,1,0,0,0,0,1,0,1,1,1
+"255",2020-04-06 18:27:26,20,"2","1","9",6,3,5,"Lavado de manos adecuado, uso del tapabocas al salir, limpieza del hogar, desinfección de objetos de uso diario (llaves, manillas, celulares...)","3","4",0,0,1,1,0,1,0,0,1,0,0,0,1,1,0
+"256",2020-04-06 18:27:31,21,"2","1","3",2,4,5,"0","4","3",0,0,1,1,1,0,1,1,0,0,0,1,1,1,0
+"257",2020-04-06 18:33:08,18,"2","1","3",2,3,4,"Me quedo en casa, lavo mis manos constantemente y si debo salir por algo necesario, uso tapabocas y guantes","3","5",0,0,1,1,1,1,1,1,1,0,0,1,1,1,1
+"258",2020-04-06 18:34:34,19,"1","1","8",2,3,5,"Evitar salir de la casa, evitar contacto con personas. Distanciamiento social, desinfectar ropa y zapatos. No entrar con zapatos a la casa, no tocarse la cara","4","5",1,1,1,1,1,1,0,0,0,0,0,1,1,1,0
+"259",2020-04-06 18:36:54,18,"2","1","9",2,3,4,"0","3","1",0,0,1,0,1,1,0,1,0,0,0,0,0,0,1
+"260",2020-04-06 18:39:33,22,"2","1","3",2,3,5,"Quedarme en casa, lavarme las manos y desinfectar las puertas","3","2",1,0,1,0,0,1,0,1,1,0,0,1,1,1,1
+"261",2020-04-06 18:41:54,18,"2","1","9",1,3,5,"0","3","2",1,1,1,0,1,1,1,1,1,0,1,1,1,1,1
+"262",2020-04-06 18:42:25,17,"2","1","1",1,4,5,"0","3","5",1,0,1,0,1,1,0,0,0,0,0,0,0,0,1
+"263",2020-04-06 18:45:46,19,"2","1","9",2,3,4,"0","3","2",0,1,1,1,0,0,0,0,1,0,0,1,1,1,0
+"264",2020-04-06 18:53:09,18,"2","1","9",2,3,5,"0","3","3",1,0,1,0,1,0,1,0,1,0,0,1,1,1,1
+"265",2020-04-06 18:55:00,20,"1","1","1",3,2,4,"0","3","2",1,0,0,0,1,1,0,0,0,1,0,0,1,1,1
+"266",2020-04-06 18:59:33,21,"1","1","10",1,2,5,"limpiar mucho la casa, usar el tapa boca al salir, lavarnos las manos y no tocar nuestra cara","2","2",0,1,1,1,1,1,0,0,0,0,0,0,1,1,1
+"267",2020-04-06 19:10:46,26,"1","1","2",2,3,5,"0","3","4",1,1,0,1,1,1,0,0,0,1,0,1,0,0,0
+"268",2020-04-06 19:19:14,21,"1","1","10",2,4,4,"- Evito salir.
+De tener que salir:
+- Uso tapabocas.
+- Me alejo de las personas.
+Al llegar a casa:
+- Le echo alcohol en spray a los zapatos, pantalón y camisa, llaves, teléfono, cartera y paso al baño a lavarme las manos y cara con jabón y agua en abundancia.","3","4",0,1,0,1,1,1,0,0,0,0,0,1,1,1,1
+"269",2020-04-06 19:19:17,19,"2","1","8",1,5,5,"Me lavo las manos constantemente, limpio mi casa a diario y no salgo","1","1",1,0,0,0,0,1,0,0,0,0,0,0,0,0,1
+"270",2020-04-06 19:23:59,18,"1","1","8",2,3,5,"0","4","4",1,0,1,1,1,1,1,1,0,0,0,0,1,1,1
+"271",2020-04-06 19:25:56,19,"2","1","4",3,5,5,"Usar antibacterial 
+Quedarme en casa 
+Si por razones extremas necesito salir, uso del tapabocas y guantes","1","1",0,0,1,1,1,1,0,1,1,0,1,1,1,1,1
+"272",2020-04-06 19:27:01,19,"2","1","10",1,4,4,"0","2","1",1,0,1,0,1,1,0,0,0,0,0,1,1,1,1
+"273",2020-04-06 19:33:49,18,"1","1","2",2,3,3,"0","2","1",0,0,0,1,1,1,0,0,0,1,0,1,1,1,1
+"274",2020-04-06 19:35:05,21,"1","1","10",1,2,5,"limpiar mucho la casa, usar el tapa boca al salir, lavarnos las manos y no tocar nuestra cara","2","2",0,1,1,1,1,1,0,0,0,0,0,0,1,1,1
+"275",2020-04-06 19:35:53,21,"2","1","3",7,3,4,"0","3","2",0,0,1,1,0,1,0,0,0,0,0,1,1,1,1
+"276",2020-04-06 19:36:59,19,"2","1","1",3,3,2,"Mantenerme en casa, lavarme las manos","3","2",1,0,0,0,0,1,1,0,1,0,0,0,1,1,1
+"277",2020-04-06 19:37:12,23,"1","1","8",1,3,4,"Aislamiento con excepciones de comprar comida, Uso de tapabocas al salir, zapatos y ropa solo para salir, limpieza con cloro de las manillas del carro, casa etc.","4","4",1,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+"278",2020-04-06 19:38:55,18,"2","1","9",2,3,4,"0","2","3",0,0,0,0,1,0,0,0,1,0,0,0,1,1,1
+"279",2020-04-06 19:48:09,20,"1","1","9",6,2,4,"Uso de tapaboca cada vez que salgo de mi casa, lavar las manos una vez llego de regreso","4","2",0,0,0,1,1,1,0,1,0,0,0,0,0,0,1
+"280",2020-04-06 19:49:39,17,"2","1","4",2,4,5,"Permanecer en casa en la medida de los posible","4","2",1,1,1,1,1,0,0,0,0,0,0,1,1,1,1
+"281",2020-04-06 19:51:56,18,"2","1","8",1,3,4,"No he salido de mi casa estas tres ultimas semanas","3","4",1,0,1,1,0,1,1,0,0,0,0,1,1,1,0
+"282",2020-04-06 20:04:23,20,"2","1","1",3,5,3,"Tapa bocas
+Anti bacterial 
+Alcohol 
+Lavado de manos diario","2","5",1,0,1,1,0,1,0,0,0,0,0,0,1,1,0
+"283",2020-04-06 20:04:30,21,"2","1","1",2,5,5,"0","3","2",1,0,1,0,1,0,0,0,0,0,0,1,1,1,1
+"284",2020-04-06 20:05:37,18,"1","1","10",2,5,5,"0","2","3",0,0,0,0,1,1,0,0,0,0,0,1,1,1,1
+"285",2020-04-06 20:11:09,19,"2","1","9",5,5,5,"0","4","2",0,0,0,1,1,1,0,0,0,0,0,1,1,1,1
+"286",2020-04-06 20:11:52,20,"1","1","9",5,3,5,"Quedarme en casa","1","4",0,0,0,1,0,1,0,0,0,0,0,0,0,0,1
+"287",2020-04-06 20:18:23,19,"1","1","1",4,3,5,"Lavado constante de manos, desinfección de ropa y accesorios al volver de la calle, usar mascarillas al salir, el mantenerse en casa si no hay necesidad de salir, y evitar las visitas.","3","2",1,0,1,0,1,0,0,0,0,1,0,1,1,1,1
+"288",2020-04-06 20:19:01,17,"2","1","9",2,3,4,"0","4","2",0,1,1,1,1,1,0,0,1,0,1,1,1,1,0
+"289",2020-04-06 20:21:40,20,"2","1","9",5,3,5,"0","2","2",0,0,1,0,0,1,0,0,1,0,0,0,0,0,1
+"290",2020-04-06 20:26:12,18,"2","1","1",1,2,3,"0","2","2",1,0,1,1,0,1,1,1,0,0,1,0,0,0,1
+"291",2020-04-06 20:29:00,23,"1","1","10",7,3,5,"Guardo cuarentena desde hace casi 3 semanas, pido el super a domicilio y desinfecto lo comprado","3","2",1,1,0,0,1,1,1,1,0,0,0,0,0,0,0
+"292",2020-04-06 20:34:44,20,"2","1","10",2,4,5,"0","4","4",1,1,1,0,1,1,0,0,0,0,1,0,1,1,1
+"293",2020-04-06 20:40:19,20,"2","1","9",5,5,5,"Lavado constante de manos, limpieza del hogar, cambios de ropa en caso de que haya tenido que salir, uso de mascarilla quirúrgica y guantes, no entrar a la casa con los zapatos y distanciamiento social","3","2",0,0,0,0,0,1,0,1,0,0,0,1,1,1,1
+"294",2020-04-06 20:44:52,17,"1","1","8",1,2,4,"La cuarentena y el lavada frecuente de manos","3","4",0,1,0,0,1,1,0,0,0,0,0,0,1,1,1
+"295",2020-04-06 20:48:15,22,"2","1","10",5,3,2,"Me lavo las manos y no salgo de mi casa desde que comenzó la cuarentena","3","2",1,1,0,0,1,1,0,0,0,0,0,0,1,1,1
+"296",2020-04-06 21:03:05,21,"2","1","3",7,2,5,"0","3","3",1,1,1,1,0,1,0,0,0,0,0,1,1,1,0
+"297",2020-04-06 21:07:48,27,"1","1","10",6,2,3,"Mayor higiene en casa.","4","2",0,1,0,0,0,1,0,0,0,0,0,0,1,1,1
+"298",2020-04-06 21:36:58,24,"1","1","10",6,3,5,"Lavar las manos con frecuencia
+Evitar contacto con las personas 
+Evitar salir de mi casa
+ Salir cuando es necesario 
+Infórmame de fuentes confiables","4","4",0,0,1,0,1,0,1,0,0,0,0,1,1,1,1
+"299",2020-04-06 21:39:59,18,"1","1","2",2,3,3,"0","4","2",0,0,1,0,1,0,0,0,1,0,0,0,1,1,1
+"300",2020-04-06 21:40:32,21,"1","1","10",6,3,5,"No salir de mi casa","3","4",0,1,0,0,0,1,0,0,0,0,0,1,1,1,1
+"301",2020-04-06 21:43:15,20,"1","1","10",5,4,5,"Utilizó la tapabocas, me lavo las manos unas 3 o 4 veces diarias, no le doy besos ni a mis familiares ni contacto físico","2","3",1,0,0,1,0,1,0,0,0,0,0,0,0,0,1
+"302",2020-04-06 21:44:12,22,"1","1","10",4,4,5,"Tapabocas, lavarse las manos, guantes.","2","2",1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"303",2020-04-06 21:46:26,39,"2","1","1",2,3,5,"Máscara, guantes, muda para salir y meter en la secadora la ropa a penas llego, bañarme","2","4",0,0,1,1,1,1,0,0,0,0,0,0,1,1,0
+"304",2020-04-06 21:47:59,18,"1","1","8",2,3,4,"0","3","4",0,0,0,0,1,0,0,0,0,0,0,0,1,1,0
+"305",2020-04-06 22:01:03,18,"2","1","9",1,4,5,"0","3","3",0,0,1,1,0,0,1,0,0,1,1,1,0,0,0
+"306",2020-04-06 22:29:29,18,"2","1","9",1,3,4,"Lavarme las manos regularmente y utilizar antibacterial, respetar la cuarentena, evitar tocarme la cara cuando sé que tengo las manos sucias, tener mascarillas en reserva (a pesar de no salir y permanecer en casa).","4","2",1,1,0,1,0,1,0,1,1,0,0,0,1,1,0
+"307",2020-04-06 22:34:32,18,"1","1","8",1,5,3,"Salir lo necesario de casa, usar el tapa bocas al salir, y llevarme las manos con jabón","3","4",1,0,1,1,1,1,0,0,0,0,0,1,1,1,1
+"308",2020-04-06 22:58:41,18,"2","1","9",1,4,3,"0","3","4",0,0,0,1,1,1,0,1,0,0,0,1,1,1,1
+"309",2020-04-06 23:07:17,20,"2","1","9",4,5,4,"Distanciamiento social, uso de tapabocas, lavado frecuente de manos","3","2",0,0,0,1,0,1,0,0,0,0,0,1,1,1,1
+"310",2020-04-06 23:07:42,17,"2","1","2",2,5,5,"0","3","2",1,0,1,1,0,0,0,0,0,0,0,1,1,1,0
+"311",2020-04-06 23:32:04,18,"2","1","10",2,3,3,"Lavarme las manos, evitar contacto con personas","2","2",1,0,0,0,1,1,0,0,0,0,0,1,0,0,1
+"312",2020-04-07 00:05:33,21,"1","1","10",2,3,4,"0","3","4",0,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+"313",2020-04-07 00:13:38,18,"2","1","1",2,4,5,"Hábitos de higiene. 
+Distanciamiento social.
+Salir cuando sea estrictamente necesario.","3","2",1,0,1,0,0,1,1,1,1,0,0,1,1,1,0
+"314",2020-04-07 00:39:44,19,"2","1","1",2,5,5,"0","3","2",0,1,1,1,1,0,0,0,0,1,0,1,1,1,1
+"315",2020-04-07 00:41:51,20,"2","1","10",5,3,4,"Tenemos un plan de control, la persona que le corresponda salir ya sea por comida o cualquier otra necesidad, debe dejar los zapatos afuera de la casa, entrar y ir directo al baño, poner la ropa en el cesto y bañarse. Luego la ropa del cesto se lava con desinfectante y se le coloca un poco de alcohol, ese es el proceso. Para los demás debemos estar constantemente lavandonos las manos con agua y jabon, Si tocamos algo que estuvo en el exterior como cuando tenemos abiertas las ventanas más de 4 horas también hacemos el mismo proceso y limpiamos el lugar.","2","2",0,0,0,1,1,1,0,0,0,0,0,0,1,1,0
+"316",2020-04-07 02:08:35,18,"2","1","4",1,4,5,"Dejar los zapatos en la entrada de la puerta, tomar vitamina C, tomar agua con limón, después de lavarme las manos me echo alcohol","3","3",0,1,0,0,1,1,0,0,0,0,0,1,1,1,1
+"317",2020-04-07 03:30:21,18,"1","1","5",2,3,4,"0","4","4",0,0,0,0,0,1,0,0,0,0,0,0,0,0,1
+"318",2020-04-07 10:06:28,18,"2","1","4",2,2,3,"0","2","4",1,0,1,1,0,1,0,0,0,0,0,1,1,1,0
+"319",2020-04-07 10:31:01,18,"2","1","9",2,4,5,"0","3","4",1,0,1,1,1,1,0,0,1,0,0,1,1,1,1
+"320",2020-04-07 10:41:44,19,"2","1","10",2,5,5,"Lavarme las manos cada 20min","1","5",0,1,0,1,1,1,0,0,0,0,0,0,1,1,1
+"321",2020-04-07 11:43:15,22,"2","1","1",3,3,3,"Múltiples lavados de manos y cara durante el día, limpieza de superficies que se tocan comúnmente por todos los miembros de la casa, mantener distancia","3","1",0,0,1,0,0,1,0,1,0,0,0,1,1,1,1
+"322",2020-04-07 12:12:11,23,"1","1","9",6,4,4,"0","2","3",0,1,1,1,0,1,0,0,0,0,0,0,0,0,1
+"323",2020-04-07 12:28:35,25,"1","1","10",3,4,4,"0","3","4",0,0,0,1,1,1,0,0,0,0,0,0,0,0,1
+"324",2020-04-07 13:41:25,21,"1","1","10",1,2,5,"limpiar mucho la casa, usar el tapa boca al salir, lavarnos las manos y no tocar nuestra cara","2","2",0,1,1,1,1,1,0,0,0,0,0,0,1,1,1
+"325",2020-04-07 13:51:01,21,"1","1","2",1,2,4,"Estoy haciendo la cuarentena al pie de la letra, las pocas veces que salgo uso tapaboca y guantes, trato de no saludar a la gente con contacto físico y me lavo las manos frecuentemente","4","4",1,0,0,1,1,1,0,0,0,1,0,1,1,1,1
+"326",2020-04-07 13:51:34,17,"1","1","5",1,3,4,"Lavarnos las manos salir con tapabocas utilizar guantes no tocar perillas de otros lados oh sino con guantes","4","3",1,0,0,0,1,1,0,0,0,0,0,0,1,1,1
+"327",2020-04-07 13:51:48,18,"1","1","2",2,2,4,"0","1","2",0,0,0,1,0,1,0,0,0,0,0,0,1,1,1
+"328",2020-04-07 13:57:29,19,"2","1","9",2,5,5,"0","3","2",1,0,1,1,1,1,0,1,0,0,0,0,0,0,1
+"329",2020-04-07 13:59:17,23,"1","1","2",2,5,5,"Todas las que indica la OMS en su página.","1","1",1,1,1,0,0,1,0,0,0,0,0,0,0,0,0
+"330",2020-04-07 14:00:21,17,"1","1","2",1,1,3,"Lavarse las manos más seguido, por lo menos unas 15 veces al día 
+Ponerse alcohol después que toquemos algo 
+Usar la mascarilla 
+","3","3",1,0,0,0,1,1,0,1,0,0,0,0,1,1,1
+"331",2020-04-07 14:03:29,18,"1","1","2",1,3,5,"Tapabocas, lavado de manos al tocar cualquier cosa posiblemente infectada, no salir de casa, al salir de casa y volver dejar los zapatos en la entrada (nunca pasar con ellos), distanciamiento social de al menos 1 metro y medio.","3","2",1,1,0,0,1,1,0,1,0,0,0,1,1,1,1
+"332",2020-04-07 14:05:01,18,"1","1","5",1,3,4,"0","2","3",1,0,1,1,1,0,0,0,0,0,0,1,1,1,1
+"333",2020-04-07 14:05:03,21,"2","1","8",2,2,5,"0","3","5",0,0,0,1,0,1,0,0,0,0,0,0,1,1,1
+"334",2020-04-07 14:06:12,17,"2","1","5",1,3,3,"Lavarme las manos, usar antibacterial y quedarme en casa","4","4",0,0,1,1,1,1,0,0,0,0,0,0,1,1,1
+"335",2020-04-07 14:09:09,19,"2","1","5",1,3,5,"0","1","2",0,1,1,0,1,1,0,1,0,0,0,1,0,0,1
+"336",2020-04-07 14:11:25,18,"1","1","2",1,3,4,"Utilizar tapa bocas, gel antibacterial, consumir mucha vitamina c","3","3",0,0,1,1,0,1,0,0,0,0,0,1,0,0,1
+"337",2020-04-07 14:11:30,18,"2","1","8",2,4,4,"Estar aislado, usar tapabocas, lavarme las manos, limpiar objetos de uso","2","4",0,1,0,1,1,0,0,0,0,0,0,1,1,1,1
+"338",2020-04-07 14:22:10,25,"1","1","10",8,4,5,"Encierro y más encierro","1","1",0,0,0,0,1,1,0,0,0,0,0,0,0,0,0
+"339",2020-04-07 14:24:43,17,"2","1","5",1,3,3,"confinamiento absoluto, guantes y tapabocas si salgo y limpieza con cloro","3","4",1,1,1,0,0,0,1,0,0,0,0,0,1,1,0
+"340",2020-04-07 14:38:10,18,"2","1","5",1,3,5,"0","3","4",0,0,0,0,1,1,0,0,1,0,0,1,1,1,1
+"341",2020-04-07 14:55:26,23,"2","1","10",2,5,5,"Tapabocas y guantes si se tiene que comprar algo","3","4",1,1,1,0,1,1,0,0,1,0,1,1,1,1,1
+"342",2020-04-07 14:55:27,18,"1","1","2",2,4,5,"0","4","4",1,0,0,1,1,1,0,0,0,0,0,1,1,1,0
+"343",2020-04-07 14:55:51,18,"1","1","2",2,1,5,"0","4","5",1,1,1,0,1,1,0,0,0,0,0,1,1,1,0
+"344",2020-04-07 14:56:40,18,"2","1","6",2,3,3,"No he salido de mi casa desde el 13 de abril y cuando hacen las compras desinfectamos los empaques antes de guardarlos","1","4",1,0,1,0,0,1,0,0,0,0,0,0,0,0,1
+"345",2020-04-07 14:59:13,18,"1","1","2",2,3,4,"0","4","2",1,0,1,0,1,0,0,0,1,1,1,1,1,1,1
+"346",2020-04-07 15:00:09,19,"1","1","2",2,3,4,"Protecciones al salir, limpieza e higiene intenso y no salir a menos que sea necesario.","5","1",0,1,1,1,0,1,0,1,0,1,0,1,1,1,1
+"347",2020-04-07 15:00:36,22,"2","1","9",5,5,4,"Limpieza constante de mi casa y salir a la calle lo menos posible","3","2",0,0,1,1,1,1,0,0,0,0,0,0,1,1,1
+"348",2020-04-07 15:01:24,21,"1","1","2",4,4,5,"-densifeccion de artículos de uso diario
+- protocolo de llegada a casa
+- exponer al sol las prendas usadas
+-ventanas cerradas","2","2",1,1,0,1,0,1,0,1,0,0,0,1,1,1,1
+"349",2020-04-07 15:02:43,20,"1","1","2",2,2,2,"Quedarme en mi casa y evitar contacto fisico","3","3",1,0,0,0,1,1,0,0,0,0,0,0,1,1,1
+"350",2020-04-07 15:02:55,18,"1","1","2",2,3,4,"0","4","2",0,0,0,1,0,1,0,0,0,0,0,0,1,1,1
+"351",2020-04-07 15:04:07,17,"1","1","9",2,3,5,"0","2","5",0,1,1,1,1,1,0,0,0,0,0,1,1,1,1
+"352",2020-04-07 15:04:28,18,"1","1","2",2,3,3,"0","3","3",0,0,0,1,1,1,0,0,0,0,0,0,1,1,1
+"353",2020-04-07 15:10:07,18,"2","1","9",2,3,5,"No salir de casa, higiene, salir usando tapabocas, uso de gel antibacterial, distancia con otras personas","3","2",1,1,0,0,1,1,0,0,0,0,0,0,1,1,0
+"354",2020-04-07 15:10:23,18,"1","1","2",2,3,4,"Lavarse las manos constantemente, usar tapabocas y guantes al salir a la calle, evitar tocar muchas superficies fuera de la casa, y al volver a ella, quitarse los zapatos en la entrada, lavar y/o botar los guantes (si ya se han utilizado muchas veces) al igual que el tapabocas, lavar los zapatos, teléfonos, llaves, manillas de la puerta de entrada, etc... con un poco de cloro o alcohol y agua, lavar la ropa con la que se salió a la calle, y bañarse inmediatamente. En fin, prevenir lo más posible cualquier tipo de contagio...","4","3",1,0,1,1,1,1,1,0,0,1,0,1,1,1,1
+"355",2020-04-07 15:14:09,18,"2","1","2",2,4,4,"0","4","2",0,0,0,1,1,1,0,0,0,0,0,0,0,0,0
+"356",2020-04-07 15:20:48,18,"1","1","2",2,3,3,"0","5","3",0,1,0,0,0,1,0,0,0,0,0,1,1,1,1
+"357",2020-04-07 15:25:07,18,"1","1","2",2,4,4,"Antibacterial, evitar contacto y tener mucha higiene.","2","3",1,0,0,0,1,1,0,0,0,0,0,1,1,1,1
+"358",2020-04-07 15:26:42,18,"2","1","4",1,3,5,"0","2","4",1,1,0,0,1,1,0,0,1,0,0,1,0,0,1
+"359",2020-04-07 15:30:37,17,"1","1","8",2,1,4,"0","4","3",1,1,1,0,0,1,0,0,0,0,0,1,0,0,1
+"360",2020-04-07 15:30:47,18,"1","1","2",2,2,5,"0","3","4",1,1,0,0,1,1,0,0,0,0,0,1,1,1,1
+"361",2020-04-07 15:34:38,18,"1","1","2",2,2,5,"0","2","4",0,0,1,1,1,1,0,0,0,0,0,1,0,0,1
+"362",2020-04-07 15:35:02,20,"2","1","4",2,3,5,"Estar en casa, salir lo menos posible","3","3",1,0,1,0,1,1,0,0,0,0,0,1,1,1,1
+"363",2020-04-07 15:42:57,22,"1","1","2",4,3,5,"Tapabocas, guantes, lavarse las manos, no tocarse la cara","4","4",1,0,1,1,1,1,0,0,0,1,0,0,1,1,1
+"364",2020-04-07 15:43:44,26,"1","1","3",4,2,3,"0","4","2",0,0,0,1,1,0,0,0,0,0,0,0,1,1,1
+"365",2020-04-07 15:47:08,17,"1","1","2",2,3,5,"usar un tapabocas, lavarme las manos cada cierto tiempo entre otras medidas","3","4",1,0,1,0,1,1,0,0,0,1,0,1,0,0,1
+"366",2020-04-07 15:48:22,18,"2","1","9",1,3,5,"0","3","4",0,0,0,1,1,1,0,0,0,0,0,0,1,1,1
+"367",2020-04-07 15:50:08,20,"2","1","1",2,3,3,"0","1","2",0,0,1,0,1,1,0,1,0,1,0,0,1,1,0
+"368",2020-04-07 16:00:23,18,"1","1","2",2,1,3,"Usar tapabocas al salir de casa. Lavar las manos al entrar a casa","2","4",1,0,0,1,0,1,0,0,0,0,0,0,1,1,1
+"369",2020-04-07 16:06:13,18,"2","1","5",1,4,4,"0","4","4",1,0,1,0,1,1,0,0,0,0,0,1,1,1,0
+"370",2020-04-07 16:14:25,17,"2","1","9",1,1,4,"0","1","5",0,0,0,1,0,1,0,0,1,0,0,0,1,1,1
+"371",2020-04-07 16:14:51,18,"2","1","9",1,3,5,"Evitar salir de casa si no es necesario 
+Lavarme las manos constantemente 
+El uso del tapabocas al salir a la calle 
+Dejar los zapatos en la entrada de la casa 
+Limpiar la casa con agua y cloro 
+Mantener el cabello recogido","2","4",1,1,1,1,0,1,0,0,1,1,0,1,1,1,1
+"372",2020-04-07 16:18:08,18,"2","1","9",1,4,5,"Usar guantes, tapaboca, alcohol y gel antibacterial. También me he quedado en casa y salgo al mercado con distanciamiento hacia las personas.","2","2",0,0,0,0,0,1,1,0,0,0,0,0,1,1,1
+"373",2020-04-07 16:19:40,19,"1","1","2",2,4,5,"0","4","3",1,1,0,1,0,1,0,0,0,0,0,0,1,1,1
+"374",2020-04-07 16:22:16,18,"2","1","9",1,4,3,"Lavarme las manos constantemente, usar guantes y tapabocas en caso de salir, dejar los zapatos fuera de la casa y lavar inmediatamente la ropa","3","3",0,1,1,0,1,1,1,0,0,0,1,1,1,1,1
+"375",2020-04-07 16:24:50,18,"2","1","2",2,3,4,"0","3","3",1,1,1,0,1,1,0,1,1,1,1,1,1,1,1
+"376",2020-04-07 16:28:02,18,"1","1","8",2,4,4,"Tapabocas, guantes","3","1",0,1,1,0,0,1,0,0,0,1,0,0,1,1,0
+"377",2020-04-07 16:35:27,17,"1","1","2",2,3,5,"Quedarme en casa","3","4",0,0,0,0,0,1,0,0,0,0,0,1,1,1,1
+"378",2020-04-07 16:37:29,39,"1","1","3",3,5,5,"Lavado de manos y desinfección una vez que alguien retorna al hogar","2","2",1,0,1,1,1,0,0,0,0,0,0,0,1,1,0
+"379",2020-04-07 16:38:27,18,"1","1","2",2,3,2,"0","3","2",1,0,0,0,1,1,0,0,0,0,0,0,1,1,1
+"380",2020-04-07 16:44:41,18,"2","1","2",2,4,4,"Quedarme en casa (en caso de tener que salir utilizar tapabocas quirúrgico), utilizar antibacterial frecuentemente, lavar las manos frecuentemente, lavar la comida cuidadosamente, desinfectar la casa y la ropa.","2","5",1,0,1,0,1,1,0,1,0,0,0,0,0,0,0
+"381",2020-04-07 17:08:43,18,"1","1","2",1,4,4,"Lavarme las manos constantemente
+No salir si no es necesario 
+Al regresar a mi casa bañarme y lavar la ropa 
+Evitar tocarme la cara 
+Evitar contacto con otras personas","3","2",1,1,0,1,0,1,0,0,0,0,0,1,1,1,1
+"382",2020-04-07 17:11:09,18,"1","1","4",2,4,5,"Lavado constante de manos, limpieza de la ropa inmediatamente si es expuesta al exterior, uso del tapabocas, evitar conglomeraciones, evitar contacto con superficies en lugares públicos, uso de alcohol y desinfectantes luego de estar en la calle, evitar en la medida de lo posible estar en la calle y respetar la cuarentena","3","1",1,0,1,0,1,0,0,0,0,1,0,1,1,1,0
+"383",2020-04-07 17:20:06,17,"2","1","2",1,3,5,"Cuarenta absoluta","2","1",1,1,1,0,1,0,0,0,0,0,0,1,0,0,0
+"384",2020-04-07 17:25:18,17,"2","1","4",1,5,5,"tapaboca, mantenerse en casa, me lavo las manos, me mantengo informada","4","4",1,1,1,0,0,1,0,0,0,0,0,0,1,1,1
+"385",2020-04-07 17:38:04,17,"2","1","4",1,3,4,"0","3","3",1,0,0,1,0,1,0,1,0,0,0,1,1,1,1
+"386",2020-04-07 17:46:29,18,"2","1","5",1,4,4,"0","4","4",1,0,1,0,1,1,0,0,0,0,0,1,1,1,0
+"387",2020-04-07 18:00:36,20,"2","1","9",5,5,5,"No salir de casa","3","4",0,1,0,1,1,1,0,0,0,0,0,0,0,0,1
+"388",2020-04-07 18:10:58,19,"2","1","9",1,4,4,"0","1","2",0,1,0,0,1,1,0,0,0,0,1,1,1,1,1
+"389",2020-04-07 18:17:05,20,"2","1","1",3,2,2,"0","3","2",0,0,0,0,1,1,0,0,0,0,0,0,1,1,1
+"390",2020-04-07 18:18:34,18,"1","1","10",2,3,5,"Limpiar los objetos más utilizados periódicamente, limpiar los pomos de las puertas regularmente, si se sale del hogar utilizar la mascarilla y guantes, lavarse las manos con agua un jabón además de anti bacterial","3","2",0,1,0,1,1,0,0,0,0,0,0,0,1,1,1
+"391",2020-04-07 18:26:46,18,"2","1","9",1,3,4,"Quedarme en casa, solo salir para lo estrictamente necesario, como comprar comida o medicamentos, además, al momento de salir siempre lo hago con tapaboca y llevando conmigo un envase con alcohol para desinfectar mis manos o cualquier superficie que pueda estar contaminada, mantengo cierta distancia con las personas que me rodean en el lugar y al llegar a casa me lavo muy bien las manos","3","4",1,0,1,0,0,1,0,1,1,0,0,1,0,0,1
+"392",2020-04-07 18:29:07,19,"2","1","1",2,3,4,"usar tapaboca, guantes, no salir, limpiar constantemente con cloro, lavarme las manos a cada rato","3","4",1,0,1,1,0,1,0,0,0,0,0,0,1,1,0
+"393",2020-04-07 18:33:58,20,"2","1","9",5,3,4,"No salir tanto de mi casa, y en caso de que tenga que, uso tapabocas, guantes y salgo con mi gel antibacterial","3","2",0,0,1,1,1,1,1,0,1,1,0,1,1,1,1
+"394",2020-04-07 18:58:25,19,"2","1","1",4,4,5,"0","4","1",1,0,1,0,1,0,1,0,1,0,0,0,0,0,0
+"395",2020-04-07 19:11:59,18,"2","1","9",1,3,5,"Quedarme en casa
+Lavarme las manos con frecuencia
+Usar tapabocas y guantes en casa de salir","3","2",1,1,1,1,1,1,1,0,1,0,0,1,1,1,1
+"396",2020-04-07 19:22:08,18,"2","1","4",2,4,4,"0","2","4",1,0,0,0,1,1,0,0,0,0,1,0,0,0,1
+"397",2020-04-07 19:30:44,21,"1","1","4",1,4,5,"Mantener la cuarentena en todo momento, solo salir para dirigirme hacia el supermercado con guantes y tapa boca.","3","4",1,0,1,0,1,1,0,0,0,0,0,0,1,1,1
+"398",2020-04-07 19:38:41,54,"2","1","3",3,5,5,"0","3","2",1,1,1,1,0,1,0,0,0,0,0,1,0,0,0
+"399",2020-04-07 19:41:55,26,"1","1","9",5,4,5,"Lavado constante de manos y cara, cuarentena casi absoluta, lavado de alimentos y objetos con alcohol puro.","3","1",1,1,1,1,0,1,0,1,0,0,0,0,1,1,0
+"400",2020-04-07 19:48:40,19,"1","1","2",1,5,5,"0","2","1",0,0,0,1,1,1,0,0,0,1,0,0,1,1,1
+"401",2020-04-07 19:54:38,20,"2","1","9",5,3,5,"0","3","4",0,0,0,1,1,1,0,0,1,1,0,0,1,1,1
+"402",2020-04-07 20:15:12,26,"2","1","5",1,4,4,"Salir a la calle por lo necesario, utilizar tapabocas, lavar mis manos frecuentemente","3","3",0,0,0,0,1,0,0,0,0,0,0,0,1,1,0
+"403",2020-04-07 20:20:06,20,"1","1","9",1,4,5,"0","3","2",0,1,1,0,0,1,0,0,0,0,0,1,1,1,1
+"404",2020-04-07 20:42:28,17,"1","1","5",1,3,5,"0","2","2",1,1,0,1,0,1,0,0,0,0,0,1,1,1,1
+"405",2020-04-07 20:49:17,18,"2","1","9",1,3,4,"0","3","1",0,1,1,1,1,1,1,0,1,0,0,1,1,1,0
+"406",2020-04-07 21:08:50,21,"2","1","9",2,3,4,"Lavarme las manos , usar antibacterial , poner los zapatos en la entrada de la puerta antes de pasar a la casa , usar tapabocas y guantes , intentar si no tengo guantes no tocar las puertas ( agarro un Pañito)","3","2",0,1,0,1,1,1,0,0,0,0,0,1,1,1,0
+"407",2020-04-07 21:24:14,18,"1","1","1",1,3,3,"Hecho una rutina cada dia diferente, sin estar planificado","4","3",0,1,0,0,1,1,1,1,1,0,1,1,1,1,1
+"408",2020-04-07 21:25:30,17,"1","1","9",1,5,5,"Lavarme 8 veces las manos por día, no salir de mi vivienda, tomar todos los días los preventivos que mandan como limonada caliente, gárgaras de sal, etc.","2","1",0,0,1,1,0,0,0,1,0,1,0,1,0,0,0
+"409",2020-04-07 21:49:42,18,"1","1","5",2,3,4,"0","4","4",0,0,0,0,0,1,0,0,0,0,0,0,0,0,1
+"410",2020-04-07 21:53:01,22,"1","1","9",1,2,4,"No salir de casa, lavar mis manos,","3","4",1,0,1,0,0,1,0,0,0,1,0,0,0,0,0
+"411",2020-04-07 21:59:55,18,"1","1","5",2,3,4,"0","4","4",0,0,0,0,0,1,0,0,0,0,0,0,0,0,1
+"412",2020-04-07 23:26:41,19,"2","1","4",1,5,5,"0","2","4",1,0,1,0,1,1,0,0,0,0,0,1,1,1,0
+"413",2020-04-08 00:12:20,19,"2","1","1",2,4,5,"0","3","3",0,0,0,0,1,1,0,0,1,0,0,0,1,1,1
+"414",2020-04-08 03:37:33,18,"2","1","4",1,5,5,"Lavarme siempre las manos, y mantener todas las areas de mi casa limpias","3","4",1,0,1,1,0,1,0,0,1,1,0,1,1,1,1
+"415",2020-04-08 03:50:10,18,"1","1","4",1,3,4,"Respetar la cuarentena social, en caso de salir usar mascarilla, alcohol cada 5 o 10 minutos, tener el mínimo contacto con personas que no sean de mi vivienda.","4","3",1,1,0,0,0,0,0,0,0,0,0,1,0,0,1
+"416",2020-04-08 05:10:19,17,"1","1","2",2,4,5,"Cuarentena social total, no salgo de casa y uso toda las medidas que tengo a mi alcance para desinfectar todo cada vez que mis padres salen","3","1",0,0,0,0,1,1,0,0,0,0,0,1,1,1,1
+"417",2020-04-08 07:47:54,17,"1","1","2",1,4,4,"Aislamiento parcial, medidas higiénicas y distanciamiento.","3","2",0,1,1,0,1,0,0,0,0,0,0,0,1,1,0
+"418",2020-04-08 09:52:38,17,"2","1","4",1,3,3,"0","3","4",0,0,0,0,1,0,1,0,0,0,0,1,0,0,0
+"419",2020-04-08 10:37:53,20,"2","1","1",5,3,4,"0","3","4",1,0,0,1,1,1,0,0,0,0,0,0,0,0,0
+"420",2020-04-08 11:23:30,29,"2","1","9",3,3,5,"0","5","3",1,0,1,0,1,1,1,0,0,0,0,0,1,1,0
+"421",2020-04-08 11:26:15,21,"2","1","1",4,4,5,"He llevado al pie de la letra el distanciamiento social, en el caso urgente de que tenga que salir de mi casa, el uso del tapabocas, bañarme cada vez que llego a mi casa dejar los zapatos en la puerta de la casa, de todo... te estoy volviendo loca","3","2",0,0,0,0,1,0,1,0,0,0,0,0,1,1,1
+"422",2020-04-08 11:36:46,21,"2","1","1",4,3,3,"0","3","4",0,0,0,1,1,1,0,0,0,0,0,0,1,1,1
+"423",2020-04-08 11:37:10,20,"1","1","2",4,3,4,"0","3","4",1,0,1,0,1,0,0,0,0,0,0,1,1,1,1
+"424",2020-04-08 12:05:55,18,"2","1","9",1,2,5,"0","2","2",0,1,0,1,0,1,0,1,0,0,0,0,1,1,0
+"425",2020-04-08 12:08:57,22,"2","1","9",4,3,4,"Cuarentena voluntaria","4","3",0,1,1,0,1,1,0,0,0,0,0,1,1,1,1
+"426",2020-04-08 12:46:04,19,"1","1","9",4,4,5,"0","2","4",0,1,1,0,0,1,0,1,0,1,0,1,0,0,1
+"427",2020-04-08 12:46:41,17,"2","1","9",1,4,5,"1.Lavarme las manos con frecuencia 2. Distancia con otras personas 3. Limpiar y desinfectar los objetos","2","4",0,1,0,1,1,1,0,1,1,0,0,0,1,1,1
+"428",2020-04-08 12:49:12,18,"2","1","2",1,4,3,"0","3","4",1,0,1,0,1,0,0,0,1,0,0,1,1,1,0
+"429",2020-04-08 12:47:15,17,"2","1","2",1,2,4,"0","1","4",0,0,0,1,1,1,0,1,1,0,1,1,0,0,1
+"430",2020-04-08 12:47:38,18,"1","1","2",1,4,4,"Lavarme las manos
+Bañarme todos los días
+Tomar vitamina c","3","3",0,0,1,1,1,1,0,0,0,0,0,1,1,1,0
+"431",2020-04-08 12:51:21,18,"1","1","2",1,4,5,"-No salir de casa
+-Lavarme las manos 4 veces al día durante 5 minutos
+-Desinfectar todo lo que entra a la casa
+-Hervir el agua
+-En tal caso de salir usar tapabocas guantes y ropa que tape completamente mi cuerpo 
+Entre otras","4","5",1,1,1,1,1,1,0,0,0,0,0,1,1,1,1
+"432",2020-04-08 12:53:15,23,"1","1","2",1,3,4,"El uso del Tapa boca, lavarse las manos frecuentemente con agua y jabon, incluso utilizar guantes,","3","4",1,0,0,1,1,0,0,0,0,0,0,0,1,1,0
+"433",2020-04-08 12:54:04,17,"2","1","2",1,5,4,"Lavarme las manos, usar mascarilla, limpiar periódicamente, distanciamiento social","3","4",1,0,1,1,1,1,0,0,0,0,0,1,1,1,1
+"434",2020-04-08 12:54:12,19,"1","1","2",1,3,5,"0","2","4",1,0,0,0,1,1,0,0,0,0,0,0,1,1,1
+"435",2020-04-08 12:55:47,17,"1","1","2",1,5,3,"He usado guantes y mascarillas al salir a trabajar y al gym","3","2",0,0,0,0,1,0,0,0,0,0,0,0,1,1,0
+"436",2020-04-08 12:55:54,18,"1","1","2",1,3,5,"0","3","3",1,1,0,1,1,1,0,0,0,0,0,1,1,1,1
+"437",2020-04-08 12:58:10,17,"1","1","9",1,5,4,"actualmente estoy completamente aislado, pero antes de venirme para acá estaba en una zona muy transitada y no usaba guantes ni tapabocas","1","4",1,1,1,1,1,1,0,0,0,0,0,0,1,1,1
+"438",2020-04-08 13:01:10,17,"2","1","9",1,5,5,"0","3","4",0,0,1,1,0,1,0,0,0,0,0,1,1,1,1
+"439",2020-04-08 13:01:17,17,"2","1","2",1,3,5,"0","4","3",1,1,0,1,0,0,0,0,1,0,0,1,1,1,1
+"440",2020-04-08 13:01:37,17,"1","1","2",1,1,2,"0","3","3",0,1,1,1,1,1,0,1,0,0,0,1,1,1,1
+"441",2020-04-08 13:02:08,20,"2","1","2",1,3,5,"0","4","4",1,0,1,0,0,1,0,0,1,0,0,1,1,1,0
+"442",2020-04-08 13:06:17,21,"2","1","2",1,2,4,"Limpieza constante","4","4",0,0,1,0,1,0,1,0,1,0,0,1,0,0,0
+"443",2020-04-08 13:08:56,18,"1","1","2",1,2,3,"0","2","4",1,0,1,0,1,0,0,0,0,0,0,1,1,1,1
+"444",2020-04-08 13:09:41,17,"2","1","2",1,2,3,"Limpiar más seguido
+No salir innecesariamente","2","4",1,0,1,0,0,1,0,0,0,0,0,1,0,0,1
+"445",2020-04-08 13:10:38,21,"2","1","2",1,4,5,"Lavado frecuente de manos, lavado de productos comprados durante la cuarentena, uso de tapabocas y guantes","4","4",1,1,0,0,0,0,0,0,0,0,0,1,1,1,0
+"446",2020-04-08 13:18:37,18,"1","1","5",2,3,4,"0","4","4",0,0,0,0,0,1,0,0,0,0,0,0,0,0,1
+"447",2020-04-08 13:20:54,17,"1","1","9",2,2,2,"No salir de mi casa ni un día 
+","4","3",0,0,1,1,0,1,0,0,1,0,0,1,1,1,1
+"448",2020-04-08 13:22:01,17,"1","1","2",1,2,4,"0","3","4",1,1,1,0,0,1,0,0,0,0,0,1,1,1,1
+"449",2020-04-08 13:28:58,17,"1","1","2",1,2,4,"Lavarte las manos, estas en casa, no me reúno en grupos","3","4",1,0,1,0,1,1,0,1,1,0,0,0,1,1,1
+"450",2020-04-08 13:31:57,17,"2","1","2",1,2,4,"0","1","4",0,0,0,1,1,1,0,1,1,0,1,1,0,0,1
+"451",2020-04-08 13:33:12,19,"2","1","4",2,3,5,"0","4","4",0,1,0,1,1,1,0,0,1,1,0,1,1,1,1
+"452",2020-04-08 13:38:05,16,"2","1","2",1,3,5,"0","3","4",1,1,0,1,0,1,0,0,1,0,0,1,1,1,0
+"453",2020-04-08 13:43:36,19,"1","1","9",6,3,3,"0","3","3",1,0,1,0,0,0,1,1,0,1,0,0,0,0,1
+"454",2020-04-08 13:44:21,19,"2","1","4",2,1,5,"no salir, lavar constantemente mis manos, distanciarme socialmente de los demás, tomar vitaminas","3","3",1,0,0,0,0,0,1,0,1,0,0,1,1,1,1
+"455",2020-04-08 13:44:53,21,"1","1","9",6,4,4,"0","3","2",0,0,0,1,0,1,0,0,0,0,0,1,1,1,0
+"456",2020-04-08 13:47:34,21,"2","1","9",4,4,4,"0","3","4",0,1,0,0,1,1,0,0,0,0,0,0,1,1,0
+"457",2020-04-08 13:53:37,18,"1","1","2",2,3,4,"No salir de casa
+Uso del tapabocas 
+Lavado minucioso de las manos","2","4",0,0,1,0,1,1,0,0,1,0,0,0,1,1,1
+"458",2020-04-08 14:11:16,19,"2","1","9",5,5,5,"Quedarme en casa y evitar el contacto con las demás personas","3","2",0,1,1,1,1,1,0,0,0,0,0,1,1,1,1
+"459",2020-04-08 14:17:21,18,"1","1","1",3,2,4,"Uso constante del tapabocas fuera de casa, lavado constante y técnico de manos, uso de gel antibacterial y desinfección de las cosas que entran en la casa","4","4",0,0,1,1,1,1,0,0,0,0,0,0,1,1,1
+"460",2020-04-08 14:33:51,20,"2","1","9",5,4,5,"0","2","4",0,0,1,0,1,1,0,0,0,0,0,0,1,1,0
+"461",2020-04-08 14:34:15,20,"2","1","9",5,5,5,"Guantes y tapabocas, lavando las manos cada cierto tiempo,. desinfectar todo, si hay que salir al mercado cambiarse la ropa en la puerta e irse a bañar directo etc","2","2",0,0,0,1,1,1,0,0,0,0,0,1,1,1,1
+"462",2020-04-08 14:36:34,20,"2","1","9",5,4,4,"0","2","2",1,0,0,1,0,0,1,0,1,1,0,1,1,1,1
+"463",2020-04-08 14:36:49,19,"2","1","9",4,5,4,"0","2","2",0,0,1,1,1,1,0,0,1,0,1,0,1,1,1
+"464",2020-04-08 14:39:09,19,"2","1","9",6,3,4,"No he salido de mi casa al menos que sea de carácter sumamente necesario","4","3",1,1,1,1,1,1,0,1,1,1,0,1,0,0,0
+"465",2020-04-08 14:40:38,20,"2","1","9",6,4,5,"Seguir las recomendaciones y protocolos de la OMS","3","3",0,0,1,0,0,1,0,1,0,0,0,0,0,0,1
+"466",2020-04-08 14:40:53,20,"2","1","9",6,4,5,"Cuarentena, tapabocas, guantes y antibacterial siempre a la mano","1","2",0,0,1,1,0,1,1,1,0,0,0,1,1,1,1
+"467",2020-04-08 14:41:29,22,"2","1","9",6,5,5,"Me mantengo en casa, aseo mis manos,","3","2",0,0,0,1,0,1,0,1,1,0,0,0,1,1,1
+"468",2020-04-08 14:41:55,18,"2","1","9",4,2,5,"Saliendo lo necesario y cuando llego bañarme y colocar la ropa al sol","3","3",0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+"469",2020-04-08 14:44:29,21,"2","1","9",6,3,4,"0","1","3",0,0,1,1,0,1,0,1,1,0,0,0,0,0,0
+"470",2020-04-08 14:46:01,20,"2","1","9",4,5,5,"no hemos salido de nuestra casa a menos que sea para compras necesarias, si salimos usamos tapabocas, guantes y gel antibacterial, evitamos tener contacto con mucha gente","3","4",0,0,0,1,1,1,0,0,0,0,0,1,1,1,1
+"471",2020-04-08 14:49:28,21,"1","1","9",5,3,5,"Aislamiento casi q total y un cuidado higiénico casi que obsesivo tanto en mi casa como al salir de ella, si salgo que es poco, llevo guantes y tapabocas y todo lo que ingrese a la casa es lavado y desinfectado y apenas llegamos, nos quitamos la ropa y nos vamos a bañar","4","2",0,1,1,1,1,1,0,1,0,0,0,0,1,1,1
+"472",2020-04-08 14:53:20,19,"2","1","9",5,4,4,"0","3","3",0,1,1,1,0,1,0,1,0,0,0,1,1,1,1
+"473",2020-04-08 15:07:59,18,"1","1","2",1,3,4,"Lavado de manos excesivo, desinfectantes, guantes y tapabocas","2","3",1,0,1,1,1,1,0,0,0,0,0,0,0,0,0
+"474",2020-04-08 15:08:28,18,"1","1","1",4,3,4,"0","3","2",0,1,0,0,1,1,0,1,0,0,0,1,0,0,0
+"475",2020-04-08 15:18:11,20,"1","1","9",6,3,4,"El momento de salir a comprar comida salgo con tapabocas y guantes. Al entrar dejo los zapatos afuera, voy directo a bañarme y dejo la ropa directo para lavar. Solemos lavarnos las manos muy a menudo y mantener la casa limpia en general","2","3",0,1,1,1,1,1,0,1,0,0,0,1,1,1,0
+"476",2020-04-08 15:26:40,19,"2","1","9",6,3,4,"Lavarse las manos frecuentementes, salir solo a la calle para comprar alimentos y usar tapabocas","3","4",0,0,0,1,1,1,0,0,1,0,0,0,1,1,1
+"477",2020-04-08 15:29:40,18,"1","1","2",1,2,4,"Quedarse en casa, usar tapabocas y guantes,  y lavarse las manos varias veces al día","3","3",1,0,1,1,1,1,0,0,0,1,0,1,1,1,1
+"478",2020-04-08 15:38:31,20,"2","1","1",1,2,4,"0","3","3",0,0,1,1,1,1,0,1,1,0,0,1,1,1,1
+"479",2020-04-08 15:45:08,22,"1","1","9",4,2,3,"0","4","4",0,1,0,1,0,1,0,0,0,1,0,0,1,1,1
+"480",2020-04-08 15:55:41,18,"1","1","4",2,2,5,"0","3","2",0,0,0,1,1,1,0,0,0,0,0,0,0,0,1
+"481",2020-04-08 16:14:55,18,"2","1","9",1,2,3,"tapabocas, gel antibacterial, lavarse las manos frecuentemente...","3","3",0,1,1,1,0,1,0,0,0,0,0,0,0,0,1
+"482",2020-04-08 16:55:15,19,"2","1","4",2,3,4,"0","1","2",1,0,0,1,1,1,1,0,0,0,1,0,1,1,1
+"483",2020-04-08 17:11:36,17,"2","1","1",1,3,4,"0","4","4",1,1,1,0,1,1,0,0,1,1,1,1,1,1,1
+"484",2020-04-08 17:21:34,21,"2","1","9",6,3,5,"Lavarme las manos constantemente
+No salir de casa 
+Usar tapabocas de ser necesario","3","4",0,1,1,0,1,1,0,0,0,0,0,0,0,0,1
+"485",2020-04-08 17:58:37,18,"1","1","8",2,4,5,"Todas las recomendadas por la OMS","3","4",0,0,0,0,1,1,0,0,0,0,0,1,1,1,1
+"486",2020-04-08 18:07:11,19,"2","1","9",1,2,4,"0","3","3",0,0,1,0,1,1,0,1,0,0,1,1,1,1,1
+"487",2020-04-08 18:32:35,19,"1","1","9",1,4,5,"Cuarentena, distanciamiento social, tapabocas, guantes","2","2",0,0,0,0,1,1,0,0,0,0,0,1,1,1,1
+"488",2020-04-08 19:45:50,19,"2","1","9",4,4,5,"Quedarme en casa, lavarme y echarme gel antibacterial en las manos con frecuencia y no tocarme la cara.","3","2",0,0,1,1,0,1,0,0,0,0,0,1,1,1,0
+"489",2020-04-08 21:37:59,19,"2","1","9",5,5,3,"Evitar salir y de hacerlo utilizar tapaboca y al regresar a casa dejar la ropa y zapatos afuera. No recibir visitas. Desinfectar todos los productos y alimentos que traigan a casa. Lavarme las manos constantemente.","2","2",0,1,0,1,0,1,0,0,0,0,0,1,1,1,0
+"490",2020-04-08 22:05:15,18,"2","1","9",1,4,2,"no  salgo de mi casa","2","2",0,0,0,1,1,1,0,0,1,0,1,1,1,1,1
+"491",2020-04-08 23:37:43,18,"1","1","2",1,4,4,"Me lavo las manos con frecuencia y casi no salgo de mi apartamento","2","4",0,0,0,1,1,1,0,0,1,0,0,1,1,1,1
+"492",2020-04-09 00:02:35,19,"2","1","9",1,2,4,"0","3","5",0,0,0,1,0,1,0,1,0,0,0,0,1,1,0
+"493",2020-04-09 00:14:14,18,"2","1","9",1,4,5,"0","3","4",0,0,1,1,0,1,0,0,0,0,0,0,1,1,1
+"494",2020-04-09 10:14:03,19,"2","1","9",6,4,5,"Salir 1 sola persona a hacer las compras (yo), limpiar las compras, bañarse inmediatamente después de salir, lavarse las manos, uso de tapabocas, no recibir visitas, etc","1","2",0,0,0,0,1,0,0,0,0,0,0,0,1,1,0
+"495",2020-04-09 10:57:44,25,"1","1","9",1,3,4,"Uso de tapabocas; lavado constante de manos y la casa; desinfección de perillas, interruptores de luz, celulares y demás dispositivos táctiles; aislamiento voluntario; distanciamiento físico dentro de la casa y al salir a la calle para los viajes esenciales.","4","3",1,0,1,0,1,0,0,1,1,1,0,1,0,0,1
+"496",2020-04-09 11:19:25,18,"2","1","9",1,4,5,"lavar las manos, no salir de casa si no es necesario, usar tapabocas el dia que toca salir, desinfectar aparatos electronicos","3","4",0,0,1,0,1,1,0,0,1,0,0,1,1,1,1
+"497",2020-04-09 12:32:16,22,"2","1","9",1,5,5,"tapa boca, gel antibacterial, no salgo de mi casa (muy puntal a comprar cosas que necesito)","1","4",0,0,1,1,1,1,0,1,0,0,0,1,1,1,1
+"498",2020-04-09 12:46:34,19,"2","1","9",4,4,4,"Evito salir de mi casa , lavo mis manos frecuentemente y utilizo gel antibacterial","1","4",0,0,0,1,1,1,0,0,0,0,0,0,0,0,0
+"499",2020-04-09 12:52:09,17,"2","1","1",1,2,4,"Limpiarme las manos de manera constante, uso de tapabocas, al menos un metro entre personas estando fuera de casa. Al regresar a mi casa dejo mis zapatos fuera, quitó rápidamente la ropa que use, limpio mis manos y objetos con cuidado","5","2",0,0,1,0,1,1,1,1,0,0,1,0,1,1,0
+"500",2020-04-09 13:52:14,17,"2","1","4",1,3,4,"0","1","3",0,1,1,0,1,1,1,0,0,0,0,0,0,0,1
+"501",2020-04-09 15:02:29,21,"2","1","10",6,5,4,"0","2","2",1,0,0,0,1,0,1,0,1,0,0,1,0,0,0
+"502",2020-04-09 15:22:17,20,"1","1","9",6,3,3,"0","3","3",0,0,1,0,0,1,0,1,0,0,0,0,1,1,1
+"503",2020-04-09 16:26:44,18,"1","1","9",1,3,5,"No salir de mi casa, desinfectar cosas que uso mucho con alcohol, lavarme las manos 4 veces al dia","3","3",0,0,0,0,1,1,0,0,0,0,0,1,0,0,1
+"504",2020-04-09 17:25:27,18,"1","1","2",1,1,4,"Lavarme las manos, cara, mantenerme hidratado no solo con agua sino también cosas calientes. Ejercicio, estudios, etc","5","4",0,1,0,0,1,0,0,0,0,1,0,0,1,1,1
+"505",2020-04-09 18:55:13,19,"1","1","4",2,1,4,"0","3","5",0,1,0,1,0,0,0,0,0,0,0,0,0,0,1
+"506",2020-04-09 18:56:34,18,"2","1","4",2,2,5,"0","4","4",0,1,1,1,0,1,0,0,0,0,0,1,1,1,1
+"507",2020-04-09 19:31:36,20,"2","1","9",2,4,4,"En mi casa desarrollamos muchas rutinas nuevas. Mi hermano es el unico que sale a hacer las compras y al momento de llegar a casa deja los zapatos afuera,se baña, desinfectamos todas las llaves,puertas, lo que compra y la ropa que lleva puesta.","3","4",0,0,1,1,0,1,1,0,1,1,1,1,1,1,1
+"508",2020-04-09 19:38:50,21,"1","1","2",3,1,4,"Lavarme las manos y usar tapa bocas","1","2",0,1,1,1,0,0,0,0,0,0,0,0,0,0,0
+"509",2020-04-09 21:27:45,19,"2","1","1",3,4,5,"Aplicar soluciones de alcohol o cloro con agua, lavarme las manos varias veces al dia, usar tapabocas, no salir de mi casa, mantener la distancia de personas mayores, etc","2","4",0,0,1,1,0,1,0,0,1,1,0,0,1,1,1
+"510",2020-04-09 22:20:03,19,"1","1","4",2,3,5,"lavarme las manos, usar tapabocas cuando tengo que salir, usar solamente unos pareces de zapatos para la calle","3","4",1,1,1,1,1,1,0,0,0,0,0,0,1,1,1
+"511",2020-04-09 22:41:43,20,"2","1","9",2,2,4,"0","4","4",0,0,0,1,0,1,0,0,1,0,0,1,1,1,1
+"512",2020-04-09 23:31:59,18,"1","1","5",2,3,4,"0","4","4",0,0,0,0,0,1,0,0,0,0,0,0,0,0,1
+"513",2020-04-10 00:56:58,17,"2","1","2",1,2,4,"0","1","4",0,0,0,1,1,1,0,1,1,0,1,1,0,0,1
+"514",2020-04-10 02:19:41,18,"1","1","2",2,4,5,"0","5","5",1,1,0,1,1,1,0,0,0,0,0,0,0,0,1
+"515",2020-04-10 07:59:46,17,"2","1","4",2,2,4,"0","3","4",1,0,1,1,1,1,0,0,0,0,0,1,0,0,1
+"516",2020-04-10 12:26:57,18,"1","1","4",2,4,5,"me lavo las manos todos los dias, no salgo de casa","3","3",1,0,0,0,1,1,0,0,0,0,0,0,0,0,1
+"517",2020-04-10 14:38:18,18,"1","1","2",2,3,5,"Uso de antibacterial, mascarillas, alcohol en spray y guantes en caso de que tenga que salir","1","1",1,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+"518",2020-04-10 15:10:22,21,"2","1","9",6,2,4,"0","4","2",0,0,1,0,1,1,0,0,1,0,1,1,1,1,1
+"519",2020-04-10 15:19:01,18,"1","1","9",1,5,5,"Cada vez que nos toca salir a la calle (mayoritariamente a comprar alimentos), debemos salir con ropa que nos proteja todo el cuerpo y, preferiblemente que cubra la piel lo más posible (manga larga, pantalones, guantes, demás). Al llegar a la casa nos quitamos la ropa y los zapatos en la entrada e iniciamos el proceso de limpieza, metemos la ropa a la lavadora, lavamos las bolsas y los alimentos con agua, jabón y cloro, nos bañamos y limpiamos el piso. Además también limpiamos las pertenencias que pasaron a manos de otras personas como bolsos o tarjetas de débito.","4","3",1,0,1,0,0,0,0,1,0,0,0,1,1,1,0
+"520",2020-04-10 16:11:01,20,"2","1","9",5,3,3,"lavarme las manos , guardar cuarentena desde el dia 1 , mantener una higiene personal y en comunidad con mi familia de acuerdo a la informacion dada
+","2","2",1,1,1,1,1,1,0,1,0,0,1,1,1,1,1
+"521",2020-04-10 16:38:43,18,"2","1","9",4,3,5,"Lavo mis manos constantemente , permanezco en mi casa y no tengo contacto cercanos con personas que se encuentran en la calle.","2","3",0,0,0,1,1,1,0,0,0,0,0,0,0,0,0
+"522",2020-04-10 18:28:36,21,"2","1","1",3,5,5,"0","3","4",1,0,0,1,1,1,0,0,0,0,0,1,1,1,1
+"523",2020-04-10 20:41:11,19,"2","1","1",3,4,4,"0","3","2",1,0,1,1,1,1,0,0,1,0,0,0,1,1,1
+"524",2020-04-11 01:09:37,18,"1","1","4",2,1,5,"0","4","4",1,1,0,1,1,1,0,0,0,1,0,1,1,1,1
+"525",2020-04-11 09:39:02,19,"2","1","9",4,4,4,"Evito salir de mi casa , lavo mis manos frecuentemente y utilizo gel antibacterial","1","4",0,0,0,1,1,1,0,0,0,0,0,0,0,0,0
+"526",2020-04-11 14:27:32,17,"2","1","2",1,3,5,"0","1","4",0,0,0,1,0,1,0,1,0,0,0,1,1,1,1
+"527",2020-04-11 18:25:40,23,"1","1","8",1,3,3,"Salir lo menos posible, y al hacerlo utilizar todas las medidas de protección necesarias","3","2",1,0,1,1,1,1,0,0,0,0,0,0,1,1,1
+"528",2020-04-11 20:50:38,18,"2","1","9",4,3,5,"Lavo mis manos constantemente , permanezco en mi casa y no tengo contacto cercanos con personas que se encuentran en la calle.","2","3",0,0,0,1,1,1,0,0,0,0,0,0,0,0,0
+"529",2020-04-12 11:34:26,19,"2","1","9",4,4,5,"Evitar el contacto con cualquier superficie fuera del hogar; evitar la interacción a menos de 1m de distancia de las personas; utilizar mascarilla y guantes de verme en la necesidad de salir de mi hogar; racionar la comida al máximo.","2","4",0,0,0,1,0,1,0,0,1,1,0,1,1,1,0
+"530",2020-04-12 14:08:12,20,"2","1","1",3,4,4,"0","2","4",0,1,1,1,0,1,0,1,0,0,0,0,1,1,1
+"531",2020-04-12 14:16:29,19,"1","1","2",2,3,4,"0","2","4",1,0,0,1,1,1,0,0,1,0,0,0,1,1,1
+"532",2020-04-12 15:23:07,19,"2","1","1",4,2,4,"0","3","2",0,1,0,1,1,1,0,0,0,0,1,0,1,1,1
+"533",2020-04-12 19:43:02,21,"2","1","1",4,3,5,"permanecer en cuarentena, al salir a hacer las compras lavar toda la ropa, suela de los zapatos, desinfectar las manillas de las puertas, llaves y llaves de agua, lavar y desinfectar la compra, usar tapaboca al salir, mantener la distancia social","3","2",1,1,0,1,0,1,0,0,0,1,0,1,1,1,1
+"534",2020-04-12 23:11:20,18,"1","1","9",3,5,5,"desde varios dias antes de empezar la cuarentena he estado en mi casa sin salir, y hasta el dia de hoy no lo he echo. A demas de lavarme las manos repetidamete en el dia","3","4",0,0,0,0,0,1,0,1,0,0,0,1,0,0,1
+"535",2020-04-13 11:07:48,20,"1","1","9",6,2,4,"No salir de mi casa y cuando salgo es con tapaboca y me baño al llegar","1","2",0,1,0,1,1,1,0,0,1,1,0,0,0,0,1
+"536",2020-04-13 11:58:08,22,"1","1","9",5,5,5,"No salir de casa a menos de ser necesario (solo he salido 1 vez en 32 dias) siempre lavarme las manos evitar contacto con personas externas a mi grupo familiar","3","2",0,0,0,0,0,0,0,1,0,1,0,0,0,0,1
+"537",2020-04-13 13:48:11,20,"2","1","9",5,5,5,"0","3","2",0,1,1,1,1,1,1,1,1,0,1,1,1,1,1
+"538",2020-04-13 13:56:44,19,"2","1","1",4,2,5,"Aislamiento social, lavarnos las manos, solo sale una persona de la familia, tapabocas, guantes, etc","3","4",1,1,1,0,1,1,0,0,1,0,0,1,1,1,1
+"539",2020-04-13 14:37:20,19,"1","1","1",3,2,3,"0","5","4",1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+"540",2020-04-13 15:11:48,20,"2","1","9",5,2,4,"0","4","4",0,1,1,1,0,1,0,1,0,0,0,1,1,1,0
+"541",2020-04-13 15:53:33,19,"2","1","9",6,3,5,"0","3","3",0,1,1,0,1,1,0,1,0,0,0,1,1,1,1
+"542",2020-04-13 15:56:12,21,"1","1","9",5,5,5,"0","1","4",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"543",2020-04-13 16:17:57,20,"2","1","1",4,3,4,"Tapabocas, guantes, lavarme las manos, solo salir a lo necesario","3","4",1,0,0,0,1,1,0,0,0,0,0,0,0,0,1
+"544",2020-04-13 17:50:48,19,"2","1","9",4,3,4,"0","3","4",0,1,1,1,0,1,0,0,1,0,0,0,0,0,1
+"545",2020-04-13 19:43:13,20,"2","1","9",5,3,5,"0","2","2",0,0,0,0,0,0,0,1,0,0,0,0,1,1,0
+"546",2020-04-14 08:03:50,20,"2","1","9",6,3,5,"Evidentemente, la cuarentena es la medida principal. En caso de salir, el uso respectivo del tacapobas y guantes, al llegar a la casa quitarse inmediatamente la ropa , lavarla y tomar una ducha.","4","2",0,1,1,0,1,1,1,0,0,0,1,0,1,1,1
+"547",2020-04-14 08:17:06,21,"1","1","2",4,2,5,"0","4","5",0,1,1,0,0,0,0,0,0,0,0,1,1,1,1
+"548",2020-04-14 09:57:22,18,"2","1","2",1,2,5,"0","3","2",1,1,0,0,0,0,0,0,1,0,0,0,1,1,1
+"549",2020-04-14 10:52:01,19,"1","1","9",1,5,5,"No salir de la casa si no es necesario , lavar las manos cada rato , usar tapa bocas","2","4",1,0,0,1,1,1,0,0,0,1,0,0,1,1,1
+"550",2020-04-14 13:09:55,18,"2","1","9",1,3,5,"0","3","2",0,0,0,1,0,1,0,0,0,0,0,1,1,1,1
+"551",2020-04-14 14:35:05,21,"2","1","9",5,3,5,"Higienización correcta de productos comprados, ropa, objetos del hogar y mía propia. Mantengo distanciamiento social casi extremo.","5","2",0,0,1,0,1,1,1,0,0,0,0,1,1,1,0
+"552",2020-04-14 15:27:09,20,"2","1","9",5,3,5,"0","4","2",1,1,1,0,1,1,1,0,0,0,0,1,1,1,1
+"553",2020-04-14 21:49:33,17,"1","1","9",1,5,3,"0","3","2",0,0,0,1,1,0,0,0,1,0,0,0,1,1,1
+"554",2020-04-15 00:15:26,20,"2","1","1",4,4,5,"0","3","4",1,0,0,1,1,1,1,0,0,0,0,1,1,1,1
+"555",2020-04-15 17:32:26,21,"2","1","9",5,4,4,"0","4","3",1,1,0,1,0,0,0,1,1,0,0,1,1,1,1
+"556",2020-04-16 13:55:24,19,"2","1","9",3,4,4,"0","3","3",0,0,0,0,1,0,1,1,1,1,1,1,1,1,0
+"557",2020-04-16 18:16:36,17,"2","1","9",2,3,4,"Mejorar hábitos de higiene.","2","4",1,0,1,1,0,1,0,1,0,0,0,1,1,1,1
+"558",2020-04-16 18:21:14,18,"1","1","8",2,4,5,"0","2","4",1,0,1,1,1,1,0,0,0,0,0,0,1,1,1
+"559",2020-04-16 18:21:26,18,"2","1","9",2,4,3,"Lavarse las manos con más frecuencia, quedarse en casa","3","4",0,0,0,1,1,1,0,0,0,0,1,1,1,1,0
+"560",2020-04-16 18:27:24,17,"1","1","2",2,3,5,"No salir sin la debida protección (Guantes y mascarilla), asear todos los objetos que tuvieron contacto con el exterior, limpiar más frecuentemente la casa, y obviamente, cumplir lo mejor posible la cuarentena.","4","1",1,1,1,0,1,1,0,0,0,1,0,0,1,1,1
+"561",2020-04-16 18:28:13,19,"2","1","9",2,5,4,"0","1","5",0,0,1,1,1,1,0,0,0,0,0,1,1,1,1
+"562",2020-04-16 18:34:53,18,"2","1","9",2,3,4,"Salir únicamente al supermercado, usar guantes desechables, lavar manos y brazos al llegar, desinfectar llaves y teléfonos con alcohol","4","2",0,0,1,1,0,1,0,1,0,0,0,0,1,1,0
+"563",2020-04-16 18:38:38,18,"2","1","9",2,3,5,"0","2","4",1,1,1,0,0,1,0,1,1,0,0,1,1,1,1
+"564",2020-04-16 19:09:27,20,"1","1","2",2,4,4,"Lavar manos continuamente , usar tapabocas y usar guantes","3","3",1,0,0,1,1,1,0,0,0,0,0,0,1,1,1
+"565",2020-04-16 19:33:39,18,"2","1","10",2,5,5,"0","3","2",0,0,1,1,0,1,0,0,0,0,1,0,1,1,1
+"566",2020-04-16 19:50:32,19,"2","1","9",2,3,5,"usar tapabocas, guantes, distancia, no salir a la calle...","3","4",0,0,1,1,0,1,0,1,1,0,0,1,1,1,1
+"567",2020-04-16 21:07:54,17,"1","1","2",1,3,5,"0","3","3",0,0,0,0,1,0,0,0,0,0,0,1,1,1,0
+"568",2020-04-16 22:01:55,21,"2","1","9",5,4,5,"0","3","4",0,0,0,1,1,1,0,0,0,0,0,1,1,1,0
+"569",2020-04-16 22:17:22,18,"2","1","10",2,5,5,"0","3","2",0,0,1,1,0,1,0,0,0,0,1,0,1,1,1
+"570",2020-04-17 10:05:00,22,"2","1","10",2,3,5,"0","3","2",0,0,1,1,1,0,0,0,1,0,0,1,1,1,0
+"571",2020-04-17 11:43:28,18,"2","1","9",2,3,5,"0","4","2",0,1,0,1,1,0,1,1,0,1,0,0,1,1,1
+"572",2020-04-17 12:02:00,18,"1","1","9",2,3,5,"Lavarse las manos con jabón, usar guantes, usar mascarilla, lavar las cosas que se compran y respetar el distanciamiento social.","4","2",1,0,0,1,1,1,0,1,0,0,0,0,1,1,1
+"573",2020-04-17 13:16:23,18,"2","1","2",2,4,4,"lavarme las manos, salir con tapabocas, no tocar nada en la calle","3","2",0,0,1,1,0,1,0,0,0,0,0,0,1,1,1
+"574",2020-04-17 14:25:00,18,"2","1","10",2,4,5,"0","3","2",0,0,0,1,1,0,1,0,1,0,1,1,1,1,1
+"575",2020-04-17 15:15:38,18,"2","1","2",2,5,5,"0","1","2",1,0,0,1,1,1,0,0,0,1,0,1,1,1,1
+"576",2020-04-17 17:29:40,18,"2","1","9",2,4,4,"lavarme las manos constantemente, lavar la suela de todos los zapatos en la casa y los pisos, como mi papá ha sido el único que ha tenido que salir para hacer mercado sale completamente cubierto y protegido, todo lo que entra a la casa es pasado por proceso de desinfección que mi mamá realiza.","2","3",1,1,1,1,1,1,0,0,1,0,0,1,1,1,1
+"577",2020-04-17 19:12:06,17,"2","1","6",2,4,5,"0","2","2",0,0,1,0,0,1,0,1,0,0,0,1,0,0,0
+"578",2020-04-17 19:47:22,18,"2","1","4",2,2,5,"0","3","5",1,1,1,0,1,0,0,1,1,0,0,1,1,1,0
+"579",2020-04-18 01:33:41,17,"1","1","4",2,3,5,"difícil","2","2",1,0,1,1,0,1,0,1,0,0,0,0,1,1,1
+"580",2020-04-18 11:35:07,20,"1","1","2",2,2,3,"1-Lavar las manos cada vez que salgo.
+2- Sacarme los zapatos en la entrada de mi casa.
+3- Ocasionalmente el uso de guantes","3","2",1,0,0,1,1,1,0,0,0,0,0,0,1,1,1
+"581",2020-04-18 18:28:57,17,"2","1","2",2,2,4,"0","1","3",1,0,1,0,0,1,0,0,0,0,1,0,0,0,1
+"582",2020-04-18 19:58:46,19,"2","1","9",4,4,4,"0","3","4",0,0,1,1,0,1,0,0,0,0,1,1,1,1,1
+"583",2020-04-18 20:45:46,18,"1","1","2",2,3,3,"0","3","4",0,1,0,0,1,1,0,0,0,0,0,0,1,1,1
+"584",2020-04-18 23:14:22,19,"1","1","2",2,3,4,"Lo recomendado limpieza de manos y frecuente el hogar","3","1",0,0,1,1,0,1,0,0,1,1,0,0,1,1,1
+"585",2020-04-19 01:37:04,19,"2","1","2",2,2,4,"0","4","4",0,1,1,0,1,1,0,0,0,0,1,1,1,1,1
+"586",2020-04-19 10:31:12,18,"1","1","8",2,4,4,"0","2","2",0,0,0,1,1,1,0,0,0,0,0,1,1,1,1
+"587",2020-04-19 17:41:08,20,"2","1","9",1,5,4,"Tapabocas, lavado de manos, higiene, limpieza del hogar, quedarme en casa","3","4",1,1,0,1,1,1,1,0,0,0,0,0,1,1,1
+"588",2020-04-19 17:57:52,20,"1","1","9",5,3,4,"0","1","4",0,0,0,1,1,1,0,0,0,0,0,0,1,1,1
+"589",2020-04-19 21:01:56,21,"1","1","9",4,3,4,"limpieza y desinfeccion a la entrada de la casa, tspabocas,desinfectantes, lavado de manos, gel antibacterial, dejar la ropa en la entrada de la casa","4","4",1,0,0,0,1,1,0,1,0,1,0,0,1,1,1
+"590",2020-04-19 22:14:16,17,"2","1","9",1,3,4,"lavarse las manos cada vez que vuelva de la calle, quitarse los zapatos en la entrada, lavar todo lo que se trae del exterior.","3","3",1,0,1,1,1,1,0,1,0,1,0,1,1,1,1
+"591",2020-04-20 12:54:16,18,"1","1","2",2,1,4,"Aislamiento, salir con tapabocas, dejar los zapatos usados para salir fuera de casa, lavarse las manos 2 veces al día","5","4",1,0,1,1,0,1,0,1,1,1,0,1,1,1,1
+"592",2020-04-20 16:12:21,19,"2","1","9",2,1,5,"distanciamiento y limpieza","3","5",1,1,1,1,1,1,1,0,1,0,0,1,1,1,1
+"593",2020-04-20 19:27:27,18,"2","1","4",1,3,4,"Lavarme las manos frecuentemente , evitó salir a la calle , cuando salgo utilizo tapa bocas ,trato de utilizar mas amenudo el anti-bacterial , desinfectar la casa limpiando con Cloro","4","4",1,0,1,1,1,0,0,1,0,0,0,1,0,0,0
+"594",2020-04-20 22:12:14,19,"2","1","1",4,3,3,"0","3","3",1,0,0,1,0,1,0,0,1,0,0,1,1,1,1
+"595",2020-04-21 22:45:21,18,"2","1","4",1,2,4,"0","3","3",1,1,1,1,1,1,1,1,0,0,0,0,1,1,1
+"596",2020-04-22 09:48:16,23,"2","1","1",2,3,4,"Usar tapabocas y guantes al salir a la calle, salir solo para cosas puntuales, desinfectar todo lo que sea traído de la calle.","3","1",1,0,0,0,1,1,0,0,0,0,0,0,1,1,0
+"597",2020-04-22 11:46:25,21,"1","1","9",5,4,5,"0","3","3",0,1,1,0,1,1,0,1,0,0,0,0,1,1,1
+"598",2020-04-22 16:12:38,21,"1","1","10",1,2,5,"limpiar mucho la casa, usar el tapa boca al salir, lavarnos las manos y no tocar nuestra cara","2","2",0,1,1,1,1,1,0,0,0,0,0,0,1,1,1
+"599",2020-04-22 22:22:47,19,"2","1","9",2,2,4,"Uso de mascarilla y desinfectante al salir, limpiar los zapatos con cloro al llegar a la casa y esos mismos se quedan en la puerta, lavarse la manos constantemente, limpiar la casa con vinagre cada 4 días y limpiar cada dos días todos los pomos de las puertas y las llaves","3","4",0,0,1,1,0,0,0,0,1,0,0,0,1,1,0
+"600",2020-04-23 13:40:22,17,"1","1","4",2,4,3,"lavar las manos, evitar salir y desinfectar todo","2","2",1,0,1,1,0,0,0,1,0,0,0,0,1,1,1
+"601",2020-04-24 06:30:09,21,"2","1","2",1,3,5,"Usar tapabocas, guantes, lentes, quitarme los zapatos antes de entrar en casa, lavar la suela, manos y pies con una solución de agua y cloro, bañarme diariamente, lavar mis manos con regularidad, etc.","3","5",0,0,1,0,0,0,0,1,0,0,0,0,1,1,0
+"602",2020-04-25 12:13:11,25,"1","1","9",4,3,5,"Cuarentena total, solo salgo en ocasiones estrictamente necesarias.","2","2",1,1,1,0,1,0,1,0,0,0,0,1,0,0,0
+"603",2020-04-25 17:28:51,18,"2","1","9",1,2,3,"0","2","4",1,0,0,0,1,0,0,0,1,0,0,0,1,1,1
+"604",2020-04-25 17:30:34,18,"2","1","4",2,4,5,"Quedarme en casa, salir solo si es necesario, protegerme con guantes, tapabocas y alcohol","3","4",1,0,0,1,1,1,0,1,0,0,0,1,1,1,0
+"605",2020-04-25 21:15:11,18,"1","1","2",2,3,4,"0","2","3",1,0,0,0,0,1,0,0,0,0,0,0,0,0,1
+"606",2020-04-26 11:34:23,18,"1","1","2",2,4,4,"0","1","2",1,0,0,1,1,1,0,0,0,0,0,0,0,0,1
+"607",2020-04-26 19:13:03,19,"2","1","9",1,2,4,"Usar desinfectante 
+Uso de tapabocas 
+Evitar contacto con las personas 
+Aislamiento 
+Lavar todo lo que vaya a usar 
+","2","2",1,1,1,1,1,1,0,0,0,0,0,0,1,1,1
+"608",2020-04-28 13:05:57,25,"1","1","1",4,4,4,"0","2","4",1,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+"609",2020-04-29 00:23:42,24,"2","1","1",5,3,4,"0","3","4",1,1,1,1,1,1,0,0,0,0,0,1,1,1,1
+"610",2020-04-30 12:41:11,18,"2","1","1",4,4,5,"limpiarr todo con cloro y las medidas preventivas normales","4","2",0,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+"611",2020-05-01 07:43:06,24,"2","1","1",4,3,4,"0","2","2",0,0,1,1,0,0,0,1,0,0,0,0,1,1,0
+"612",2020-05-01 12:57:35,18,"2","1","9",1,3,4,"Evitar el contacto social","3","4",1,0,1,0,1,0,0,1,0,0,0,1,1,1,1
+"613",2020-05-03 15:34:12,20,"1","1","9",4,3,5,"Antibacterial, alcohol, tapabocas y ahorrar el hecho de salir a la calle","3","4",1,0,0,0,1,0,0,0,0,0,0,0,1,1,1
+"614",2020-05-03 21:02:11,19,"1","1","9",1,2,3,"Lavarse las manos moderadamente, usar mascarilla y usar antibacterial","2","4",0,0,0,1,1,1,0,0,0,0,0,1,1,1,1
+"615",2020-05-06 13:17:49,19,"2","1","4",1,4,5,"Usar mascarillas, lavarme las manos si tengo contacto con algo que se que varias personas an tocado, no salir de mi casa y si salgo con mascarilla y guantes, evite estar con muchas personas","3","2",1,1,0,1,1,1,0,1,0,0,0,1,0,0,1
+"616",2020-05-11 18:01:07,23,"2","1","4",1,4,5,"Limpieza, indumentaria, distanciamiento, desinfección","3","4",1,1,1,0,0,1,1,1,0,0,0,0,0,0,0
