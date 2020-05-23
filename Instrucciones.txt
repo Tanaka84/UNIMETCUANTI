@@ -1,0 +1,36 @@
+Asignación 2
+
+1. A continuación encontraras unas serie de preguntas, utilizando la herramienta Google Forms crea una encuesta que las contenga:
+
+Edad:
+Sexo:
+Profesion: (lista de respuesta: Desempleado, estudiante, freelancer, empleado)
+¿Comó te has sentido durante la cuarantena? (Item ordinal 1-5, 1 = Terrible, 5= De maravilla)
+Cuando acabe la cuarante vamos a estar... (item ordinal 1-5, 1 Mucho peor, 2 Peor, 3 Igual, 4 Mejor, 5 Mucho mejor)
+¿Qué tanto sientes que ha cambiado tu vida desde que comenzó la cuarentena? (item ordinal 1-5, 1 Nada, 5 Mucho)
+¿Cuantas medidas has adoptado para evitar el contagio? (item ordinal 1-5, 1 Ninguna, 2 Muy pocas, 3 Suficientes, 4 Más de los necesario, 5 Demasiadas)
+Describe brevemente los cambios que consideres más importante (respuesta abierta, larga)
+
+1.b Descarga el archivo Ryff.docx que encontraras en este repositorio, crea una segunda seccion de la encuesta que contenga ese instrumento.
+
+1.c Coloca tu nombre en las instrucciones de la encuesta, saca una foto de la pantalla que muestre la encuesta con tu nombre y pegala en un Doc de Google Drive.
+
+2. Descarga los siguientes documentos:
+
+	
+codebook.txt 	
+demo.csv
+
+Utilizando los pasos en los videos, utiliza el libro de codigo para recodificar la base de dato demo.csv a su forma original 
+(Recodificar la pregunta p6 es opcional, pero quienes la hagan tendra un puntaje extra al final de la materia).
+
+Abre un script de R donde vayas anotando cada linea de codigo que fuiste utilizando y comentalo (recuerde colocar ## antes del comentario para que R no lo lea), indica que lograste con esa linea de codigo.
+
+2.b Copia ese el contenido de script de R y pegalo en el mismo documento donde colocaste la foto.
+
+2.c descarga el archivo boriginal.csv para asegurarte que compararlo con tu recodificacion.
+
+3. Comparte el documento de Google Drive y pega el url como respuesta en la prueba de Edmodo. 
+
+
+
